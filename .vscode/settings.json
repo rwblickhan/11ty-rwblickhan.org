@@ -1,0 +1,5 @@
+{
+    "files.exclude": {
+        "tailwind_styles": true
+    }
+}
