@@ -7,7 +7,7 @@
     "dev:11ty": "npx @11ty/eleventy --serve",
     "dev:css": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css --watch",
     "build": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css && npx @11ty/eleventy",
-    "deploy": "npm run build && aws s3 sync _site s3://${S3_BUCKET}"
+    "deploy": "npm run build && aws s3 sync _site s3://rwblickhan.org"
   },
   "keywords": [],
   "author": "",
