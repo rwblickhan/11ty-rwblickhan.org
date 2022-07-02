@@ -1,4 +1,7 @@
-# Command Line Tools I Like (2022)
+---
+tags: technical
+title: Command Line Tools I Like (2022)
+---
 
 Despite being primarily an iOS developer, I use the command line quite a bit - I guess old habits from my time as an embedded software intern die hard.
 That said, I like a number of modern command line tools, many written in Rust, which are typically blazing fast and have better command-line interfaces than traditional Unix tools.
