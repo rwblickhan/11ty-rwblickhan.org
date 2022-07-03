@@ -1,6 +1,9 @@
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
+const markdownItAnchor = require("markdown-it-anchor");
+const pluginTOC = require("eleventy-plugin-toc");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy('styles/Vollkorn')
@@ -22,7 +25,10 @@ module.exports = (eleventyConfig) => {
     breaks: true,
     linkify: true
   };
-  eleventyConfig.setLibrary("md", markdownIt(options).use(markdownItFootnote));
+  eleventyConfig.setLibrary("md", markdownIt(options)
+      .use(markdownItFootnote)
+      .use(markdownItAnchor));
 
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(pluginTOC);
 }
