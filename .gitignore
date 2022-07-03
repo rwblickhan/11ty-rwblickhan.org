@@ -2,4 +2,5 @@ tailwind_styles/
 node_modules/
 _site/
 terraform.tfstate*
-Terraform/.terraform/providers
+Terraform/.terraform
+.cache/

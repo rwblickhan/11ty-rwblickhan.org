@@ -1,6 +1,7 @@
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const brokenLinksPlugin = require("eleventy-plugin-broken-links");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy('styles/Vollkorn')
@@ -25,4 +26,5 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.setLibrary("md", markdownIt(options).use(markdownItFootnote));
 
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(brokenLinksPlugin);
 }
