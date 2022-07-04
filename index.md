@@ -12,19 +12,7 @@ I’m experimenting with SwiftUI by building a simple iOS client for [Buttondown
 
 The best way to keep up with me is to punch in your email below to subscribe to `rwblog`, my (very) erratically released newsletter.
 
-<div class="bg-rwb-slate-light dark:bg-neutral-800 my-4 px-5 pt-4 pb-1.5 max-w-2xl mx-auto rounded">
-    <form
-      action="https://buttondown.email/api/emails/embed-subscribe/rwblickhan"
-      method="post"
-      target="popupwindow"
-      onsubmit="window.open('https://buttondown.email/rwblickhan', 'popupwindow')"
-      class="embeddable-buttondown-form"
-    >
-      <label for="bd-email">Enter your email:</label>
-      <input type="email" id="bd-email" name="email" class="block mb-4 px-4 py-3 w-full bg-white dark:bg-neutral-900 border border-slate-400 rounded" />
-      <input type="submit" value="Subscribe" class="block mb-2 px-4 py-3 w-full text-white dark:text-rwb-text-dark bg-rwb-link-light dark:bg-rwb-button-background-dark border-0 rounded cursor-pointer" />
-    </form>
-</div>
+{% include "email.html" %}
 
 Historical note: I used to call my newsletter [Applied Dilettantery](https://buttondown.email/rwblickhan) and organize it into seasons, as recommended by [Robin Sloan](https://www.robinsloan.com). Although I no longer follow that format, here were the seasons for reference:
 
