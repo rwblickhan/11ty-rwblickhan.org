@@ -1,6 +1,7 @@
 ---
 tags: story
 title: The Structure
+date: 2021-02-20
 ---
 
 The generation ship floated, gently, upon the solar winds of a distant star.

@@ -1,6 +1,7 @@
 ---
 tags: story
 title: The Factory
+date: 2020-08-23
 ---
 
 They had found the Factory in the darkened valley of an airless moon.

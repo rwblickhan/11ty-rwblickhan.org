@@ -1,6 +1,7 @@
 ---
 tags: story
 title: Two Ships There Were
+date: 2020-03-04
 ---
 
 Two ships there were  

@@ -1,6 +1,7 @@
 ---
 tags: story
 title: The House
+date: 2020-12-20
 ---
 
 Let me tell you about a House.

@@ -1,6 +1,7 @@
 ---
 tags: technical
 title: Command Line Tools I Like (2022)
+date: 2022-06-20
 ---
 
 Despite being primarily an iOS developer, I use the command line quite a bit - I guess old habits from my time as an embedded software intern die hard.
