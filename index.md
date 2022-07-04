@@ -24,6 +24,7 @@ Historical note: I used to call my newsletter [Applied Dilettantery](https://but
 ## Other Stuff
 
 * I sometimes put [unpolished short fiction](/stories) up here. Two of my favorites are ["The Bridge"](/stories/thebridge) and ["The Factory"](/stories/thefactory).
+* Sometimes I [take pictures](/gallery)!
 * I log the [books](/books) and [films](/films) I read and watch. I try to do 52 of each per year.
 * I collect some of my [favorite quotes](/quotes).
 * I write up some of my [favorite recipes](/recipes), mostly for my own use.
