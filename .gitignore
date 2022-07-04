@@ -3,3 +3,5 @@ node_modules/
 _site/
 terraform.tfstate*
 Terraform/.terraform/providers
+**/.Ulysses-Group.plist
+**/.Ulysses-Settings.plist
