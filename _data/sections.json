@@ -1,6 +1,7 @@
 [
     {"name": "Stories", "slug": "stories"},
     {"name": "Technical Writing", "slug": "technical"},
+    {"name": "Gallery", "slug": "gallery"},
     {"name": "Book Logs", "slug": "books"},
     {"name": "Film Logs", "slug": "films"},
     {"name": "Recipes", "slug": "recipes"}
