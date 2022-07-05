@@ -94,4 +94,8 @@ My heart to home and trade and never live.
 
 - Alan Jacobs, "DNA", *Snakes and Ladders*
 
+> It had always rained in western Oregon, but now it rained ceaselessly, steadily, tepidly. It was like living in a downpour of warm soup, forever.
+
+- Ursula K. Le Guin, Ch. 3, *The Lathe of Heaven*, pg. 27
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
