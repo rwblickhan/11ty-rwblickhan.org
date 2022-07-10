@@ -15,6 +15,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
+    "markdown-it-abbr": "^1.0.4-29",
     "@tailwindcss/typography": "^0.5.2",
     "concurrently": "^7.2.2",
     "eleventy-plugin-toc": "^1.1.5",

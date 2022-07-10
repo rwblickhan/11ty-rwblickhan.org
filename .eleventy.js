@@ -1,4 +1,5 @@
 const markdownIt = require("markdown-it");
+const markdownItAbbr = require("markdown-it-abbr");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginTOC = require("eleventy-plugin-toc");
@@ -26,8 +27,9 @@ module.exports = (eleventyConfig) => {
     linkify: true
   };
   eleventyConfig.setLibrary("md", markdownIt(options)
-      .use(markdownItFootnote)
-      .use(markdownItAnchor));
+      .use(markdownItAbbr)
+      .use(markdownItAnchor)
+      .use(markdownItFootnote));
 
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginTOC);
