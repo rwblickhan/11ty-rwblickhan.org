@@ -24,6 +24,12 @@ resource "aws_s3_bucket" "www" {
   }
 }
 
+resource "aws_s3_bucket" "backup" {
+  bucket = "${var.site_domain}-backup"
+  acl    = "private"
+  policy = ""
+}
+
 resource "aws_s3_bucket_policy" "public_read" {
   bucket = aws_s3_bucket.site.id
   policy = jsonencode({
