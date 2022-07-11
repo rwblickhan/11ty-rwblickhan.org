@@ -64,7 +64,7 @@ My heart to home and trade and never live.
 
 > May I try to tell you again where your only comfort lies? It is not in forgetting the happy past. People bring us well-meant but miserable consolations when they tell us what time will do to help our grief. We do not want to lose our grief, because our grief is bound up with our love and we could not cease to mourn without being robbed of our affections.
 
-– Phillips Brooks in a letter to a friend on the death of his mother (h/t [*Futility Closet*]((https://www.futilitycloset.com/2021/04/23/remembering/))
+– Phillips Brooks in a letter to a friend on the death of his mother (h/t [*Futility Closet*](https://www.futilitycloset.com/2021/04/23/remembering/))
 
 > To his venerable master A., greeting. This is to inform you that I am studying at Oxford with great diligence, but the matter of money stands greatly in the way of my promotion, as it is now two months since I spent the last of what you sent me. The city is expensive and makes many demands. I have to rent lodgings, buy necessaries, and provide for many other things which I cannot now specify. Wherefore I respectfully beg your paternity that by the promptings of divine pity you may assist me, so that I may be able to complete what I have well begun.
 
