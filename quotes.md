@@ -98,4 +98,8 @@ My heart to home and trade and never live.
 
 - Ursula K. Le Guin, Ch. 3, *The Lathe of Heaven*, pg. 27
 
+> And look at that: the more I know about her, the less inclined I feel to pass a too-harsh or premature judgement. Some essential mercy in me has been switch on. What God has going for Him that we don't is infinite information. Maybe that's why He's able to, supposedly, love us so much.
+
+- George Saunders, "Afterthought #3" *A Swim in the Pond in the Rain*, pg. 160
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
