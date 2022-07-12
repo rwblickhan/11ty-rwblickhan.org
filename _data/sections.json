@@ -2,6 +2,6 @@
     {"name": "Stories", "slug": "stories"},
     {"name": "Technical Writing", "slug": "technical"},
     {"name": "Gallery", "slug": "gallery"},
-    {"name": "Logs", "slug": "Logs"},
+    {"name": "Logs", "slug": "logs"},
     {"name": "Recipes", "slug": "recipes"}
 ]
