@@ -1,0 +1,20 @@
+---
+title: "Logs"
+---
+
+<div class="flex items-start justify-evenly">
+    <div class="flex flex-col">
+        <h2>Books</h2>
+        {% for book in collections.book reversed %}
+        <a href="{{ book.url }}">{{ book.data.title }}</a>
+        {% endfor %}
+    </div>
+    <div class="flex flex-col justify-between">
+        <h2>Films</h2>
+        {% for film in collections.film reversed %}
+        <a hrf="{{ film.url }}">{{ film.data.title }}</a>
+        {% endfor %}
+    </div>
+</div>
+
+
