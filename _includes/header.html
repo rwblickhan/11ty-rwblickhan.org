@@ -14,5 +14,10 @@
                 <a class="text-white dark:text-rwb-text-dark text-2xl no-underline hover:underline" href="/{{ section.slug }}">{{ section.name }}</a>
             </div>
         {% endfor %}
+        <div class="stork-wrapper pl-4 lg:pl-12 pr-4 lg:pr-10 bg-black h-16 flex items-center justify-between hidden peer-checked:block">
+            <input data-stork="federalist" class="stork-input"></input>
+            <div data-stork="federalist-output" class="stork-output"></div>
+        </div>
+        <script>stork.register('federalist', 'https://files.stork-search.net/releases/v1.5.0/federalist.st')</script>
     </div>
 </header>
