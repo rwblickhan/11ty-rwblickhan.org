@@ -1,34 +1,6 @@
-## Current Projects
-
-### *A Prince of Foxes*
-
-After noodling around with various [NaNoWriMo](https://nanowrimo.org) projects during the pandemic, I'm finally tackling a "real" novel that I hope to publish one day, which I'm tentatively calling *A Prince of Foxes*. It's intended to be [sociological epic fantasy](https://blogs.scientificamerican.com/observations/the-real-reason-fans-hate-the-last-season-of-game-of-thrones/) in the vein of *Game of Thrones* or *Dune*. The first draft of 79,730 words is **done**!
-
-### [Stampy](https://github.com/rwblickhan/Stampy)
-
-I’m experimenting with SwiftUI by building a simple iOS client for [Buttondown](https://buttondown.email/), my favorite email newsletter service. It’s currently available on TestFlight by invite.
-
-## Newsletter
-
-The best way to keep up with me is to punch in your email below to subscribe to `rwblog`, my (very) erratically released newsletter.
-
-{% include "email.html" %}
-
-Historical note: I used to call my newsletter [Applied Dilettantery](https://buttondown.email/rwblickhan) and organize it into seasons, as recommended by [Robin Sloan](https://www.robinsloan.com). Although I no longer follow that format, here were the seasons for reference:
-
-* [Season 1](https://buttondown.email/rwblickhan/archive/soma-or-moving-to-san-francisco-and-living-to-tell/) was primarily life updates and reviews of my media diet.
-* [Season 2](https://buttondown.email/rwblickhan/archive/misplaced-institutional-incentives-ad-s2e1/) was short, stream-of-consciousness essays about ideas that grabbed my attention, released biweekly.
-* [Season 3](https://buttondown.email/rwblickhan/archive/the-house-part-i-s3e1/) was a weekly series of short stories.
-* [Season 4](https://buttondown.email/rwblickhan/archive/whats-new-rooby-doo-applied-dilettantery-s4e1/) was a weekly dump of my favorite links of the week and some short essays.
-
-## Other Stuff
-
-* I sometimes put [unpolished short fiction](/stories) up here. Two of my favorites are ["The Bridge"](/stories/thebridge) and ["The Factory"](/stories/thefactory).
-* Sometimes I [take pictures](/gallery)!
-* I log the [books](/books) and [films](/films) I read and watch. I try to do 52 of each per year.
-* I collect some of my [favorite quotes](/quotes).
-* I write up some of my [favorite recipes](/recipes), mostly for my own use.
-* I wrote about the [tools I'm using in 2022](/tools/2022).
+---
+title: R. W. Blickhan
+---
 
 ## About
 
@@ -36,11 +8,47 @@ Professionally, I am an iOS developer at [Asana](https://asana.com/). I have a b
 
 I live in San Francisco with [my fiancée Sherry](http://sherryyuan.me) and our small canine companion Rooibos.
 
+## Newsletter
+
+The best way to keep up with me is to punch in your email below to subscribe to `rwblog`, my (very) erratically released newsletter:
+
+{% include "email.html" %}
+
+## What I'm Working On
+
+### *A Prince of Foxes*
+
+After noodling around with various [NaNoWriMo](https://nanowrimo.org) projects during the pandemic, I'm finally tackling a "real" novel that I hope to publish one day, which I'm tentatively calling *A Prince of Foxes*. It's intended to be [sociological epic fantasy](https://blogs.scientificamerican.com/observations/the-real-reason-fans-hate-the-last-season-of-game-of-thrones/) in the vein of *Game of Thrones* or *Dune*. The first draft of 79,730 words is **done**! The second draft is currently 5,391 words.
+
+### [EmomTimer](https://github.com/rwblickhan/EmomTimer)
+
+I'm porting my fiancée's [EmomTimer Android app](https://github.com/frostyshadows/EmomTimer) to SwiftUI.
+
+## What I'm Learning
+
+### [*Economics of Money and Banking*](https://youtu.be/KNEouYM5wRE)
+
+I'm watching a filmed Columbia course taught by Perry Merhling where he combines the economic and financial views of, well, money and banking.
+
+## What I'm Reading
+
+I'm currently reading Jane Jacobs' *The Death and Life of Great American Cities*, a classic of urban studies that I've so far managed to avoid. The rest of my reading is in my [books log](/books).
+
+## What I'm Watching
+
+I most recently watched *Thor: Love & Thunder* in theatres. I understand why most people hated it, but I loved it. The rest of my watching is in my [films log](/films).
+
+## Other Stuff
+
+* Sometimes I [take pictures](/gallery)!
+* I collect some of my [favorite quotes](/quotes).
+* I write up some of my [favorite recipes](/recipes), mostly for my own use.
+
 ## Colophon
 
-This site is generated with the [Publish](https://github.com/JohnSundell/Publish) static site generator, using a theme handwritten by me 🙂 It uses [Tailwind CSS](https://tailwindcss.com) for styling and [Vollkorn](http://vollkorn-typeface.com) as the main font. It's served out of an [AWS S3 bucket](https://aws.amazon.com/s3/) behind [Cloudflare's CDN](https://www.cloudflare.com/), with the infrastructure managed by [Terraform](https://www.terraform.io/).
+This site is generated with the [Eleventy (11ty)](https://www.11ty.dev) static site generator. It uses [Tailwind CSS](https://tailwindcss.com) for styling and [Vollkorn](http://vollkorn-typeface.com) as the main font. It's served out of an [AWS S3 bucket](https://aws.amazon.com/s3/) behind [Cloudflare's CDN](https://www.cloudflare.com/), with the infrastructure managed by [Pulumi](https://www.pulumi.com).
 
-You can find out more about how I built this site in [this post](/technical/2022-site) and see the full source on [Github](https://github.com/rwblickhan/rwblickhan.org).
+You can find out more about how I built a slightly older version of this site in [this post](/technical/2022-site) and see the full source on [Github](https://github.com/rwblickhan/11ty-rwblickhan.org).
 
 ## Copyright
 
