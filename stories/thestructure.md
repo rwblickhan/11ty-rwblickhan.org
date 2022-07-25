@@ -2,6 +2,7 @@
 tags: story
 title: The Structure
 date: 2021-02-20
+snippet: "Lengthy, surreal sci-fi horror."
 ---
 
 The generation ship floated, gently, upon the solar winds of a distant star.

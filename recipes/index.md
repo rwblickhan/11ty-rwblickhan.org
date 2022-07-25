@@ -1,8 +1,5 @@
 ---
 title: "Recipes"
+type: index
+tag_type: recipe
 ---
-{% for recipe in collections.recipe %}
-
-* [{{ recipe.data.title }}]({{ recipe.url }})
-
-{% endfor %}

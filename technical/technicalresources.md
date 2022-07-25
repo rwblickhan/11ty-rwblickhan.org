@@ -2,6 +2,7 @@
 tags: technical
 title: Technical Resources
 date: 2020-03-04
+snippet: "Technical resources I like."
 ---
 
 This is a list of various sites, textbooks, and tools that I've personally found useful. At some point I plan to organize these into a starting-from-scratch syllabus for all of computer science, like Gerard 't Hooft's ["How to Become a GOOD Theoretical Physicist"](http://www.staff.science.uu.nl/~gadda001/goodtheorist/) or the anonymous ["How to Become a Pure Mathematician (or Statistician)"](https://hbpms.blogspot.ca), both of which I highly recommend.

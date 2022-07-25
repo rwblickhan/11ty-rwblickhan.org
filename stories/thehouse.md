@@ -2,6 +2,7 @@
 tags: story
 title: The House
 date: 2020-12-20
+snippet: "Surreal horror."
 ---
 
 Let me tell you about a House.

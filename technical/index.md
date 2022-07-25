@@ -1,9 +1,5 @@
 ---
 title: "Technical Writing"
+type: index
+tag_type: technical
 ---
-
-{% for technical in collections.technical reversed %}
-
-* [{{ technical.data.title }}]({{ technical.url }})
-
-{% endfor %}

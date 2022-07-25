@@ -1,6 +1,7 @@
 ---
 tags: recipe
 title: Super-Deluxe Bagel Sandwich
+snippet: "A horrible monstrosity I once made."
 ---
 
 ## Ingredients[^1]
