@@ -3,7 +3,7 @@
         {% if title %} <h1>{{ title }}</h1> {% endif %}
         {{ content }}
     </div>
-    <div class="grid gap-4 grid-cols-2 grid-rows-none">
+    <div class="grid gap-4 grid-cols-1 md:grid-cols-2 grid-rows-none">
         {% for image in gallery %}
         <img src="{{ image.path }}" title="{{ image.description }}" alt="{{ image.description }}"></img>
         {% endfor %}
