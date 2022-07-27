@@ -14,11 +14,12 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy-img": "^2.0.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
-    "markdown-it-abbr": "^1.0.4-29",
     "@tailwindcss/typography": "^0.5.2",
     "concurrently": "^7.2.2",
     "eleventy-plugin-toc": "^1.1.5",
+    "markdown-it-abbr": "^1.0.4-29",
     "markdown-it-anchor": "^8.6.4",
     "markdown-it-footnote": "^3.0.3",
     "tailwindcss": "^3.1.4"

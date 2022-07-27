@@ -4,8 +4,8 @@
         {{ content }}
     </div>
     <div class="grid gap-4 grid-cols-1 md:grid-cols-2 grid-rows-none">
-        {% for image in gallery %}
-        <img src="{{ image.path }}" title="{{ image.description }}" alt="{{ image.description }}"></img>
+        {% for gallery_image in gallery %}
+        {% image gallery_image.path gallery_image.description %}
         {% endfor %}
     </div>
 </div>
