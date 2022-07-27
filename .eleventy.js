@@ -4,7 +4,24 @@ const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginTOC = require("eleventy-plugin-toc");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const Image = require("@11ty/eleventy-img");
 
+async function imageShortcode(src, alt) {
+  if(alt === undefined) {
+    // You bet we throw an error on missing alt (alt="" works okay)
+    throw new Error(`Missing \`alt\` on myImage from: ${src}`);
+  }
+
+  let metadata = await Image(`.${src}`, {
+    widths: [600],
+    formats: ["jpeg"],
+    urlPath: "/images/",
+    outputDir: "./_site/images/"
+  });
+
+  let data = metadata.jpeg[metadata.jpeg.length - 1];
+  return `<a href="${src}" title="${alt}" "target="_blank"><img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async"></a>`;
+}
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy('styles/Vollkorn')
@@ -33,4 +50,5 @@ module.exports = (eleventyConfig) => {
 
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginTOC);
+  eleventyConfig.addLiquidShortcode("image", imageShortcode);
 }
