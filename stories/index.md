@@ -1,9 +1,5 @@
 ---
 title: "Stories"
+type: index
+tag_type: story
 ---
-
-{% for story in collections.story reversed %}
-
-* [{{ story.data.title }}]({{ story.url }})
-
-{% endfor %}

@@ -36,7 +36,7 @@ I'm currently reading Jane Jacobs' *The Death and Life of Great American Cities*
 
 ## What I'm Watching
 
-I most recently watched *Thor: Love & Thunder* in theatres. I understand why most people hated it, but I loved it. The rest of my watching is in my [films log](/films).
+I most recently watched *Nope* in theatres. It was definitely interesting, but I feel like the subtext worked better than the text. The rest of my watching is in my [films log](/films).
 
 ## Other Stuff
 

@@ -2,6 +2,7 @@
 tags: story
 title: The Bridge
 date: 2020-03-04
+snippet: "Surreal short fiction."
 ---
 
 There is a bridge with no end.

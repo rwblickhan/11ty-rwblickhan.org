@@ -1,6 +1,7 @@
 ---
 tags: recipe
 title: Basic Pancakes
+snippet: "Exactly what it says on the tin."
 ---
 
 ## Ingredients

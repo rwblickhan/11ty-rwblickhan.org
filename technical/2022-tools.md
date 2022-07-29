@@ -2,6 +2,7 @@
 tags: technical
 title: Tools for 2022
 date: 2022-01-16
+snippet: "Tools I'm using in early 2022."
 ---
 
 Hey folks, in the spirit of “what’s in your bag,” I wanted to do a quick (and by quick I apparently mean 2,600+ word) overview of the tools I use every day outside of work. Most of these are (surprise, surprise) iOS apps.

@@ -1,6 +1,7 @@
 ---
 tags: recipe
 title: Sesame Grilled Cheese Bagel
+snippet: "My typical lunch."
 ---
 
 ## Ingredients
