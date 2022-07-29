@@ -1,5 +1,6 @@
 {
     "files.exclude": {
         "tailwind_styles": true
-    }
+    },
+    "deno.enable": true
 }
