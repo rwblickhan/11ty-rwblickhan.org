@@ -98,6 +98,10 @@ My heart to home and trade and never live.
 
 - Ursula K. Le Guin, Ch. 3, *The Lathe of Heaven*, pg. 27
 
+> "I thought you could change the world. Is this the best you could do for us - this mess?" "It'll have to do."
+
+- Ursula K. Le Guin, Ch. 11, *The Lathe of Heaven*, pg. 183 
+
 > And look at that: the more I know about her, the less inclined I feel to pass a too-harsh or premature judgement. Some essential mercy in me has been switch on. What God has going for Him that we don't is infinite information. Maybe that's why He's able to, supposedly, love us so much.
 
 - George Saunders, "Afterthought #3" *A Swim in the Pond in the Rain*, pg. 160
