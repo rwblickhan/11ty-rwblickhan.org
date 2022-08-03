@@ -12,14 +12,14 @@ async function imageShortcode(src, alt) {
     throw new Error(`Missing \`alt\` on myImage from: ${src}`);
   }
 
-  let metadata = await Image(`.${src}`, {
+  const metadata = await Image(`.${src}`, {
     widths: [600],
     formats: ["jpeg"],
     urlPath: "/images/",
     outputDir: "./_site/images/"
   });
 
-  let data = metadata.jpeg[metadata.jpeg.length - 1];
+  const data = metadata.jpeg[metadata.jpeg.length - 1];
   return `<a href="${src}" title="${alt}" "target="_blank"><img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async"></a>`;
 }
 
@@ -38,7 +38,7 @@ module.exports = (eleventyConfig) => {
    */
   eleventyConfig.setUseGitIgnore(false)
 
-  let options = {
+  const options = {
     html: true,
     breaks: true,
     linkify: true
