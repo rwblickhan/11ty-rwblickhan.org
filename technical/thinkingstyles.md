@@ -17,7 +17,7 @@ Are these real, as in, psychologically valid? I’m not sure, but I’ve found t
 
 ## Examples
 
-- Puzzles strike me as a typically analytic activity. Studying a class of puzzles can help you develop strategies, but for any given puzzle, you eventually have to make some kind of clever jump to a solution. (Indeed, the fact that I frankly can’t stand most puzzles 
+- Puzzles strike me as a typically analytic activity. Studying a class of puzzles can help you develop strategies, but for any given puzzle, you eventually have to make some kind of clever jump to a solution. (Indeed, the fact that I frankly can’t stand most puzzles was what first led me to consider this distinction!)
 	- Word games might be the exception. Codenames, particularly for the codemaster, feels more synthetic, since it involves embedding clues into a richly allusive context.
 - On the other hand, trivia is the ur-synthetic activity, requiring a massive amount of background knowledge to the almost complete exclusion of inventive thought.
 - The field of mathematics is heavily dominated by analytic thought. Having a wide variety of proof techniques in your toolbelt is useful, but fundamentally, you have to be able to prove novel results!
