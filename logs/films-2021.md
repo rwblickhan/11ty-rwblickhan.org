@@ -1,5 +1,5 @@
 ---
-tags: film
+tags: logs
 title: Films of 2021
 date: 2021-01-01
 ---

@@ -1,5 +1,5 @@
 ---
-tags: technical
+tags: nonfiction
 title: Tools for 2022
 date: 2022-01-16
 snippet: "Tools I'm using in early 2022."

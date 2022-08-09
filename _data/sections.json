@@ -1,7 +1,18 @@
 [
-    {"name": "Stories", "slug": "stories"},
-    {"name": "Technical Writing", "slug": "technical"},
-    {"name": "Gallery", "slug": "gallery"},
-    {"name": "Logs", "slug": "logs"},
-    {"name": "Recipes", "slug": "recipes"}
+    {
+        "name": "Fiction",
+        "slug": "fiction"
+    },
+    {
+        "name": "Non-Fiction",
+        "slug": "nonfiction"
+    },
+    {
+        "name": "Logs",
+        "slug": "logs"
+    },
+    {
+        "name": "Gallery",
+        "slug": "gallery"
+    }
 ]

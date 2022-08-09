@@ -1,5 +1,5 @@
 ---
-tags: story
+tags: fiction
 title: The Structure
 date: 2021-02-20
 snippet: "Lengthy, surreal sci-fi horror."

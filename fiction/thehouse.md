@@ -1,5 +1,5 @@
 ---
-tags: story
+tags: fiction
 title: The House
 date: 2020-12-20
 snippet: "Surreal horror."

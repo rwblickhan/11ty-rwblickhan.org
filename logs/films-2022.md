@@ -1,5 +1,5 @@
 ---
-tags: film
+tags: logs
 title: Films of 2022
 date: 2022-01-01
 ---

@@ -1,5 +1,5 @@
 ---
-tags: technical
+tags: nonfiction
 title: Technical Resources
 date: 2020-03-04
 snippet: "Technical resources I like."

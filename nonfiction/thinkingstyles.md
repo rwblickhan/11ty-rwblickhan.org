@@ -1,5 +1,5 @@
 ---
-tags: technical
+tags: nonfiction
 title: Analyzing and Synthesizing Thinking Styles
 date: 2022-07-29
 snippet: "A novel thinking style distinction"

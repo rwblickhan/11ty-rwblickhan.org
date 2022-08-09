@@ -1,5 +1,5 @@
 ---
-tags: technical
+tags: nonfiction
 title: Dotfiles
 date: 2022-06-20
 snippet: "An overview of my dotfiles and command line tools I like."

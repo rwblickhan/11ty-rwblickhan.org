@@ -30,19 +30,11 @@ I'm porting my fiancée's [EmomTimer Android app](https://github.com/frostyshado
 
 I'm watching a filmed Columbia course taught by Perry Merhling where he combines the economic and financial views of, well, money and banking.
 
-## What I'm Reading
-
-I'm currently reading Jane Jacobs' *The Death and Life of Great American Cities*, a classic of urban studies that I've so far managed to avoid. The rest of my reading is in my [books log](/books).
-
-## What I'm Watching
-
-I most recently watched *Nope* in theatres. It was definitely interesting, but I feel like the subtext worked better than the text. The rest of my watching is in my [films log](/films).
-
 ## Other Stuff
 
 * Sometimes I [take pictures](/gallery)!
 * I collect some of my [favorite quotes](/quotes).
-* I write up some of my [favorite recipes](/recipes), mostly for my own use.
+* I write up some of my [favorite recipes](/recipes).
 
 ## Colophon
 

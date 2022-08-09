@@ -1,5 +1,5 @@
 ---
-tags: story
+tags: fiction
 title: The Factory
 date: 2020-08-23
 snippet: "Short cosmic horror."

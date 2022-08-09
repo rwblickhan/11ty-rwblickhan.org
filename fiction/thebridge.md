@@ -1,5 +1,5 @@
 ---
-tags: story
+tags: fiction
 title: The Bridge
 date: 2020-03-04
 snippet: "Surreal short fiction."
