@@ -43,3 +43,4 @@ date: 2022-01-01
 37. *The Death and Life of Great American Cities*, Jane Jacobs
 38. *The Lathe of Heaven*, Ursula K. Le Guin
 39. *The Bright Ages: A New History of Medieval Europe*, Matthew Gabriele & David M. Perry
+40. *The Invaders: How Humans and Their Dogs Drove Neanderthals to Extinction*, Pat Shipman
