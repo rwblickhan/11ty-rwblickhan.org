@@ -2,6 +2,7 @@ const markdownIt = require("markdown-it");
 const markdownItAbbr = require("markdown-it-abbr");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require("markdown-it-anchor");
+const pluginRSS = require("@11ty/eleventy-plugin-rss");
 const pluginTOC = require("eleventy-plugin-toc");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const Image = require("@11ty/eleventy-img");
@@ -49,6 +50,8 @@ module.exports = (eleventyConfig) => {
       .use(markdownItFootnote));
 
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(pluginRSS);
   eleventyConfig.addPlugin(pluginTOC);
   eleventyConfig.addLiquidShortcode("image", imageShortcode);
+  eleventyConfig.addPlugin(pluginRSS);
 }

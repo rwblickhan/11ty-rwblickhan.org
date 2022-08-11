@@ -1,27 +1,28 @@
 {
-  "name": "11ty-rwblickhan.org",
-  "version": "1.0.0",
-  "description": "",
-  "scripts": {
-    "dev": "concurrently \"npm run dev:css\" \"npm run dev:11ty\"",
-    "dev:11ty": "npx @11ty/eleventy --serve",
-    "dev:css": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css --watch",
-    "build": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css && npx @11ty/eleventy",
-    "deploy": "npm run build && aws s3 sync _site s3://rwblickhan.org"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@11ty/eleventy": "^1.0.1",
-    "@11ty/eleventy-img": "^2.0.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
-    "@tailwindcss/typography": "^0.5.2",
-    "concurrently": "^7.2.2",
-    "eleventy-plugin-toc": "^1.1.5",
-    "markdown-it-abbr": "^1.0.4-29",
-    "markdown-it-anchor": "^8.6.4",
-    "markdown-it-footnote": "^3.0.3",
-    "tailwindcss": "^3.1.4"
-  }
+    "name": "11ty-rwblickhan.org",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "dev": "concurrently \"npm run dev:css\" \"npm run dev:11ty\"",
+        "dev:11ty": "npx @11ty/eleventy --serve",
+        "dev:css": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css --watch",
+        "build": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css && npx @11ty/eleventy",
+        "deploy": "npm run build && aws s3 sync _site s3://rwblickhan.org"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@11ty/eleventy": "^1.0.1",
+        "@11ty/eleventy-img": "^2.0.1",
+        "@11ty/eleventy-plugin-rss": "^1.2.0",
+        "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
+        "@tailwindcss/typography": "^0.5.2",
+        "concurrently": "^7.2.2",
+        "eleventy-plugin-toc": "^1.1.5",
+        "markdown-it-abbr": "^1.0.4-29",
+        "markdown-it-anchor": "^8.6.4",
+        "markdown-it-footnote": "^3.0.3",
+        "tailwindcss": "^3.1.4"
+    }
 }
