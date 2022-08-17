@@ -44,3 +44,4 @@ date: 2022-01-01
 38. *The Lathe of Heaven*, Ursula K. Le Guin
 39. *The Bright Ages: A New History of Medieval Europe*, Matthew Gabriele & David M. Perry
 40. *The Invaders: How Humans and Their Dogs Drove Neanderthals to Extinction*, Pat Shipman
+41. *Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life*, Eric Klinenberg
