@@ -13,6 +13,9 @@ If you like this list, you might also like Julia Evan's [more comprehensive list
 
 - [Table of Contents](#table-of-contents)
 - [neovim](#neovim)
+- [git](#git)
+  - [gh](#gh)
+  - [tig](#tig)
 - [fzf](#fzf)
 - [bat](#bat)
 - [exa](#exa)
@@ -26,6 +29,18 @@ If you like this list, you might also like Julia Evan's [more comprehensive list
 ## neovim
 
 I have a noted love for vim, but when I'm not using an IDE with a vim mode, I'm actually typically using [neovim](https://neovim.io), alias `nvim`, which is a modern reimplementation of vim with much less technical debt, a scripting engine based on Lua instead of notoriously-idiosyncratic vimscript, and reasonable defaults like syntax highlighting enabled by default. It also has a full implementation of the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/), which enables it to have very rich, Visual Studio Code-esque plugins.
+
+## git
+
+### gh
+
+[`gh`](https://cli.github.com) is the GitHub command-line interface. `gh` has access to most GitHub features, like issues and releases, but since I don't run a major open-source project community, I don't find those too useful. However, for most projects, I like to separate features into branches and make a PR, which is slightly more convenient with `gh pr`.
+
+### tig
+
+![tig in action](/images/technical/tig.png)
+
+[`tig`](https://jonas.github.io/tig/) provides a nicer commit viewer for git. I use it for browsing `git log` and `git stash`, since it shows the log and commit next to each other.
 
 ## fzf
 
@@ -84,12 +99,6 @@ zoxide also has an interactive mode that uses `fzf` to fuzzy-find recent directo
 ## httpie
 
 [HTTPie](https://httpie.io/cli) is a recent discovery. I don't need to use `curl` very often to make HTTP requests, but when I do, it's always a bit painful to remember the syntax. HTTPie has a much more obvious command-line interface and also built-in support for making HTTPS requests.
-
-## tig
-
-![tig in action](/images/technical/tig.png)
-
-[tig](https://jonas.github.io/tig/) provides a nicer commit viewer for git. I use it for browsing `git log` and `git stash`, since it shows the log and commit next to each other.
 
 [1]: https://github.com/sharkdp/bat
 [2]: https://the.exa.website
