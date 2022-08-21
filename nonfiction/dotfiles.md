@@ -14,6 +14,7 @@ If you like this list, you might also like Julia Evan's [more comprehensive list
 - [Table of Contents](#table-of-contents)
 - [neovim](#neovim)
 - [git](#git)
+  - [delta](#delta)
   - [gh](#gh)
   - [tig](#tig)
 - [fzf](#fzf)
@@ -21,7 +22,6 @@ If you like this list, you might also like Julia Evan's [more comprehensive list
 - [exa](#exa)
 - [rg](#rg)
 - [fd](#fd)
-- [delta](#delta)
 - [tldr](#tldr)
 - [zoxide](#zoxide)
 - [httpie](#httpie)
@@ -31,6 +31,32 @@ If you like this list, you might also like Julia Evan's [more comprehensive list
 I have a noted love for vim, but when I'm not using an IDE with a vim mode, I'm actually typically using [neovim](https://neovim.io), alias `nvim`, which is a modern reimplementation of vim with much less technical debt, a scripting engine based on Lua instead of notoriously-idiosyncratic vimscript, and reasonable defaults like syntax highlighting enabled by default. It also has a full implementation of the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/), which enables it to have very rich, Visual Studio Code-esque plugins.
 
 ## git
+
+## .gitconfig
+
+I've set up a number of "cute" aliases in my `.gitconfig`:
+
+```bash
+[alias]
+    b = "!f() { git checkout $(git for-each-ref --color=always --sort=-committerdate refs/heads/ --format='%(color:bold)%(HEAD)%(color:reset) %(color:blue)%(refname:short)%(color:reset) (%(color:green)%(committerdate:relative)%(color:reset)) %(contents:subject)' | fzf --ansi --preview=\"echo {} | cut -c 3- | cut -d ' ' -f1 | xargs git log --color=always\" | cut -c 3- | cut -d ' ' -f 1);  }; f"
+    c = "!f() { git diff $(git for-each-ref --color=always --sort=-committerdate refs/heads/ --format='%(color:bold)%(HEAD)%(color:reset) %(color:blue)%(refname:short)%(color:reset) (%(color:green)%(committerdate:relative)%(color:reset)) %(contents:subject)' | fzf --ansi --preview=\"echo {} | cut -c 3- | cut -d ' ' -f1 | xargs git log --color=always\" | cut -c 3- | cut -d ' ' -f 1) HEAD;  }; f"
+    cn = "!f() { git diff $(git for-each-ref --color=always --sort=-committerdate refs/heads/ --format='%(color:bold)%(HEAD)%(color:reset) %(color:blue)%(refname:short)%(color:reset) (%(color:green)%(committerdate:relative)%(color:reset)) %(contents:subject)' | fzf --ansi --preview=\"echo {} | cut -c 3- | cut -d ' ' -f1 | xargs git log --color=always\" | cut -c 3- | cut -d ' ' -f 1) HEAD --name-only;  }; f"
+    l="log --oneline --decorate"
+    m = "!f() { git merge $(git for-each-ref --color=always --sort=-committerdate refs/heads/ --format='%(color:bold)%(HEAD)%(color:reset) %(color:blue)%(refname:short)%(color:reset) (%(color:green)%(committerdate:relative)%(color:reset)) %(contents:subject)' | fzf --ansi --preview=\"echo {} | cut -c 3- | cut -d ' ' -f1 | xargs git log --color=always\" | cut -c 3- | cut -d ' ' -f 1);  }; f"
+    oops = "commit -a --no-edit --amend"
+```
+
+These are a little hard to read, but `git b`, `git c`, and `git m` provide replacements for `git checkout`, `git diff`, and `git merge` that use `fzf` to fuzzy-find the target branch, which is useful if you have a lot of branches. Why don't the letters match the actual commands? They're my own mnemonics - **b**ranch, **c**hanges, and **m**erge. `git cn` is identical to `git c`, but lists only filenames. I stole these aliases from a coworker, though unfortunately I don't remember who exactly.
+
+`git l` is an alias for the cleaner one-line `git log` output.
+
+Finally, there's `git oops`. I'm not a stickler for commit history cleanliness - I typically combine related commits into a PR and squash-merge the result - but occasionally it is nice to squash a change into the last commit, usually when something got missed (hence "oops").
+
+## delta
+
+![git diff with delta in action](/images/technical/delta.png)
+
+Don't you wish your command-line `git diff` was as pretty as GitHub? Well, now it can be! [`delta`](https://github.com/dandavison/delta) makes `git diff` output much prettier, with word-level highlighting, line numbers, and an optional side-by-side mode. It can even be used as a replacement for `diff` in general!
 
 ### gh
 
@@ -78,12 +104,6 @@ It's also useful on its own! It can helpfully install a replacement for your ter
 
 Notably, some of this behavior is also provided by `fzf`, but I usually find `fd` much more effective in actually finding what I want.
 
-## delta
-
-![An image of git diff with delta in action][image-5]
-
-Don't you wish your command-line `git diff` was as pretty as Github? Well, now it can be! [`delta`](https://github.com/dandavison/delta) makes `git diff` output much prettier, with word-level highlighting, line numbers, and an optional side-by-side mode.
-
 ## tldr
 
 ![An image of tldr in action](/images/technical/tldr.png)
@@ -108,4 +128,3 @@ zoxide also has an interactive mode that uses `fzf` to fuzzy-find recent directo
 [image-2]: /images/technical/exa.png
 [image-3]: /images/technical/rg.png
 [image-4]: /images/technical/fd.png
-[image-5]: /images/technical/delta.png
