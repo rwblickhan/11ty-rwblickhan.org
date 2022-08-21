@@ -77,13 +77,19 @@ Don't you wish your command-line `git diff` was as pretty as Github? Well, now i
 
 ## zoxide
 
-zoxide is a replacement for `cd`, inspired by `z`, that lets you jump around quickly. At a basic level, it can completely emulate the behavior of typical `cd`. However, you can also give it a fuzzy search term, and it will use a "frecency" algorithm to determine which directory, anywhere on your system, to jump to. I have `cd` aliased to `z`, the binary for zoxide.
+zoxide is a replacement for `cd` that lets you jump around quickly. At a basic level, it can completely emulate the behavior of typical `cd`. However, you can also give it a fuzzy search term, and it will use a "frecency" algorithm to determine which directory, anywhere on your system, to jump to. I have `cd` aliased to `z`, the binary for zoxide.
 
 zoxide also has an interactive mode that uses `fzf` to fuzzy-find recent directory paths. I have that functionality aliased to `cdi`, though I haven't gotten in the habit of using it yet.
 
 ## httpie
 
 [HTTPie](https://httpie.io/cli) is a recent discovery. I don't need to use `curl` very often to make HTTP requests, but when I do, it's always a bit painful to remember the syntax. HTTPie has a much more obvious command-line interface and also built-in support for making HTTPS requests.
+
+## tig
+
+![tig in action](/images/technical/tig.png)
+
+[tig](https://jonas.github.io/tig/) provides a nicer commit viewer for git. I use it for browsing `git log` and `git stash`, since it shows the log and commit next to each other.
 
 [1]: https://github.com/sharkdp/bat
 [2]: https://the.exa.website
