@@ -18,7 +18,11 @@ The best way to keep up with me is to punch in your email below to subscribe to 
 
 ### *A Prince of Foxes*
 
-After noodling around with various [NaNoWriMo](https://nanowrimo.org) projects during the pandemic, I'm finally tackling a "real" novel that I hope to publish one day, which I'm tentatively calling *A Prince of Foxes*. It's intended to be [sociological epic fantasy](https://blogs.scientificamerican.com/observations/the-real-reason-fans-hate-the-last-season-of-game-of-thrones/) in the vein of *Game of Thrones* or *Dune*. The first draft of 79,730 words is **done**! The second draft is currently 16,939 words.
+After noodling around with various [NaNoWriMo](https://nanowrimo.org) projects during the pandemic, I'm finally tackling a "real" novel that I hope to publish one day, which I'm tentatively calling *A Prince of Foxes*. It's intended to be [sociological epic fantasy](https://blogs.scientificamerican.com/observations/the-real-reason-fans-hate-the-last-season-of-game-of-thrones/) in the vein of *Game of Thrones* or *Dune*. The first draft of 79,730 words is **done**! The second draft is currently 19,892 words.
+
+### *Dreams of an Alien God*
+
+I'm kicking off another book that's long been on my backlog. This one's a horror novel about a spooky hotel. I'm hoping to have a "dummy draft" ready by end of October (just in time for Halloween!).
 
 ### [EmomTimer](https://github.com/rwblickhan/EmomTimer)
 
