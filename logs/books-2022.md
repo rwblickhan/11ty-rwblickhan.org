@@ -46,3 +46,4 @@ date: 2022-01-01
 40. *The Invaders: How Humans and Their Dogs Drove Neanderthals to Extinction*, Pat Shipman
 41. *Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life*, Eric Klinenberg
 42. *The Sandman Vol. 1: Preludes & Nocturnes*, Neil Gaiman, Sam Kieth, Mike Dringenberg, & Malcolm Jones III
+43. *The Light Ages: The Surprising Story of Medieval Science*, Seb Falk
