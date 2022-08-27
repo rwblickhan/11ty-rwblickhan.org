@@ -1,6 +1,22 @@
 [
-    {"description": "A view of Mission Bay during day", "path": "/images/gallery/1.jpg" },
-    {"description": "A view of Mission Bay at night", "path": "/images/gallery/2.jpg" },
-    {"description": "Market Street at dusk", "path": "/images/gallery/3.jpg" },
-    {"description": "Rooibos enjoying a walk", "path": "/images/gallery/4.jpg" }
+    {
+        "description": "A view of Mission Bay during day",
+        "path": "/images/gallery/1.jpg"
+    },
+    {
+        "description": "A view of Mission Bay at night",
+        "path": "/images/gallery/2.jpg"
+    },
+    {
+        "description": "Market Street at dusk",
+        "path": "/images/gallery/3.jpg"
+    },
+    {
+        "description": "Rooibos enjoying a walk",
+        "path": "/images/gallery/4.jpg"
+    },
+    {
+        "description": "Columbus Cafe's iconic neon sign",
+        "path": "/images/gallery/5.jpg"
+    }
 ]
