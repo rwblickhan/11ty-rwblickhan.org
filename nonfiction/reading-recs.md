@@ -27,16 +27,18 @@ snippet: "A list of non-fiction blogs and newsletters I like"
 For each of these I dropped the description but included a link to a representative post for each. Many of these have a blog *and* newsletter with slightly different content.
 - *Computer Stuff* (Hillel Wayne):
 	- ["Mystery Knowledge"][18]
+- Julia Evans
+	- [“What happens when you press a key in your terminal?”][19]
 - Aphyr:
-	- ["Hexing the Technical Interview"][19]
+	- ["Hexing the Technical Interview"][20]
 - apenwarr:
-	- ["Systems design explains the world: volume 1"][20]
+	- ["Systems design explains the world: volume 1"][21]
 - brandur:
-	- ["Soft Deletion Probably Isn't Worth It"][21]
+	- ["Soft Deletion Probably Isn't Worth It"][22]
 - Dan Luu:
-	- ["95%-ile isn't that good"][22]
+	- ["95%-ile isn't that good"][23]
 - Matt Rickard:
-	- ["The Unreasonable Effectiveness of Makefiles"][23]
+	- ["The Unreasonable Effectiveness of Makefiles"][24]
 
 [1]:	https://acoup.blog/
 [2]:	https://thewhippet.org/
@@ -56,8 +58,9 @@ For each of these I dropped the description but included a link to a representat
 [16]:	https://astralcodexten.substack.com/
 [17]:	https://marginalrevolution.com/
 [18]:	https://buttondown.email/hillelwayne/archive/mystery-knowledge-worskshop-discount/
-[19]:	https://aphyr.com/posts/341-hexing-the-technical-interview
-[20]:	https://apenwarr.ca/log/20201227
-[21]:	https://brandur.org/soft-deletion
-[22]:	https://danluu.com/p95-skill/
-[23]:	https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles
+[19]:	https://jvns.ca/blog/2022/07/20/pseudoterminals/
+[20]:	https://aphyr.com/posts/341-hexing-the-technical-interview
+[21]:	https://apenwarr.ca/log/20201227
+[22]:	https://brandur.org/soft-deletion
+[23]:	https://danluu.com/p95-skill/
+[24]:	https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles
