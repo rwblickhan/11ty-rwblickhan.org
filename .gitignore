@@ -4,4 +4,4 @@ _site/
 **/.Ulysses-Group.plist
 **/.Ulysses-Settings.plist
 11ty-rwblickhan.org.bundle
-
+.DS_Store
