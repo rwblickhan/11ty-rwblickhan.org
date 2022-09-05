@@ -48,6 +48,7 @@ date: 2022-01-01
 42. *The Sandman Vol. 1: Preludes & Nocturnes*, Neil Gaiman, Sam Kieth, Mike Dringenberg, & Malcolm Jones III
 43. *The Light Ages: The Surprising Story of Medieval Science*, Seb Falk
 44. *Doom Patrol: Weight of the Worlds*, Gerard Way
+45. *The Umbrella Academy Vol. 1: Apocalpyse Suite*, Gerard Way & Gabriel Ba
 
 ## Skimmed
 
