@@ -50,6 +50,7 @@ date: 2022-01-01
 44. *Doom Patrol: Weight of the Worlds*, Gerard Way
 45. *The Umbrella Academy Vol. 1: Apocalpyse Suite*, Gerard Way & Gabriel Ba
 46. *Here*, Richard McGuire
+47. *The Last Unicorn*, Peter S. Beagle
 
 ## Skimmed
 
