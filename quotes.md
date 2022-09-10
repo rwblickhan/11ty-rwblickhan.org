@@ -122,4 +122,8 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - Peter S. Beagle, *The Last Unicorn*, Ch. 12
 
+> "It all seems a bit unfair, my lord, begging your pardon. What could we have done to save the unicorns? We were afraid of the Red Bull. What could we have done?" "One word might have been enough," King Lir replied. "You'll never know now."
+
+- Peter S. Beagle, *The Last Unicorn*, Ch. 14
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
