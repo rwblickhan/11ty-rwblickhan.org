@@ -118,4 +118,8 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - Peter S. Beagle, *The Last Unicorn*, Ch. 12
 
+> "When I was alive, I believed - as you do - that time was at least as real and solid as myself, and probably more so. I said 'one o'clock' as though I could see it, and 'Monday' as though I could find it on the map; and I let myself be hurried along from minute to minute, day to day, year to year, as though I were actually moving from one place to another. Like everyone else, I lived in a house bricked up with second and minutes, weekend and New Year's Days, and I never went outside until I died, because there was no other door. Now I know that I could have walked through the walls."
+
+- Peter S. Beagle, *The Last Unicorn*, Ch. 12
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
