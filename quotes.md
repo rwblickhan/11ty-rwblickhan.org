@@ -114,4 +114,8 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - Anton Chekhov (trans. Avraham Yarmolinsky), "Gooseberries"
 
+> "I have time," the skull replied reflectively. "It's really not so good to have time. Rush, scramble, desperation, this missed, that left behind, those others too big to fit into such a small space - that's the way life was meant to be. You're supposed to be too late for some things. Don't worry about it."
+
+- Peter S. Beagle, *The Last Unicorn*, Ch. 12
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
