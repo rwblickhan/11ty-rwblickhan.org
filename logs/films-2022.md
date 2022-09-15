@@ -11,7 +11,7 @@ date: 2022-01-01
 5. *Meshes of the Afternoon*
 6. *8 1/2*
 7. *The Tinder Swindler*
-8. *The Discreet Charm of the Bourgeoisie*
+8. *The Discreet Charm of the Bourgeoisie* (twice!)
 9. *Pierrot le fou*
 10. *Ali Wong: Don Wong*
 11. *Mountains May Depart*
@@ -39,3 +39,4 @@ date: 2022-01-01
 33. *Dogtooth*
 34. *Trainwreck: Woodstock ‘99*
 35. *Double Indemnity* (1944)
+
