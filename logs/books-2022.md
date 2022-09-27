@@ -51,6 +51,7 @@ date: 2022-01-01
 45. *The Umbrella Academy Vol. 1: Apocalpyse Suite*, Gerard Way & Gabriel Ba
 46. *Here*, Richard McGuire
 47. *The Last Unicorn*, Peter S. Beagle
+48. *Keep Sharp: Build a Better Brain at Any Age*, Sanjay Gupta & Kristin Loberg
 
 ## Skimmed
 
