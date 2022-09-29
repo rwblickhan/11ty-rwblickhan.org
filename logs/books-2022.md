@@ -52,6 +52,7 @@ date: 2022-01-01
 46. *Here*, Richard McGuire
 47. *The Last Unicorn*, Peter S. Beagle
 48. *Keep Sharp: Build a Better Brain at Any Age*, Sanjay Gupta & Kristin Loberg
+49. *The Checklist Manifesto: How to Get Things Right*, Atul Gawande
 
 ## Skimmed
 
