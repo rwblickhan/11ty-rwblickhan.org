@@ -53,6 +53,7 @@ date: 2022-01-01
 47. *The Last Unicorn*, Peter S. Beagle
 48. *Keep Sharp: Build a Better Brain at Any Age*, Sanjay Gupta & Kristin Loberg
 49. *The Checklist Manifesto: How to Get Things Right*, Atul Gawande
+50. *The Sandman Vol. 2: The Doll’s House*, Neil Gaiman, Mike Dringenberg, & Malcolm Jones III
 
 ## Skimmed
 
