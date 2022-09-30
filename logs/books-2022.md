@@ -45,7 +45,7 @@ date: 2022-01-01
 39. *The Bright Ages: A New History of Medieval Europe*, Matthew Gabriele & David M. Perry
 40. *The Invaders: How Humans and Their Dogs Drove Neanderthals to Extinction*, Pat Shipman
 41. *Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life*, Eric Klinenberg
-42. *The Sandman Vol. 1: Preludes & Nocturnes*, Neil Gaiman, Sam Kieth, Mike Dringenberg, & Malcolm Jones III
+42. *The Sandman Vol. 1: Preludes & Nocturnes*, Neil Gaiman
 43. *The Light Ages: The Surprising Story of Medieval Science*, Seb Falk
 44. *Doom Patrol: Weight of the Worlds*, Gerard Way
 45. *The Umbrella Academy Vol. 1: Apocalpyse Suite*, Gerard Way & Gabriel Ba
@@ -53,7 +53,8 @@ date: 2022-01-01
 47. *The Last Unicorn*, Peter S. Beagle
 48. *Keep Sharp: Build a Better Brain at Any Age*, Sanjay Gupta & Kristin Loberg
 49. *The Checklist Manifesto: How to Get Things Right*, Atul Gawande
-50. *The Sandman Vol. 2: The Doll’s House*, Neil Gaiman, Mike Dringenberg, & Malcolm Jones III
+50. *The Sandman Vol. 2: The Doll’s House*, Neil Gaiman
+51. *The Sandman Vol. 3: Dream Country*, Neil Gaiman
 
 ## Skimmed
 
