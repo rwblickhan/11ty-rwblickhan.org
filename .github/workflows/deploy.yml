@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: sudo apt-get install awscli
+      - run: sudo apt-get update && sudo apt-get install awscli
       - run: npm ci
       - run: npm run build
       - name: Deploy
