@@ -18,5 +18,9 @@
     {
         "description": "Columbus Cafe's iconic neon sign",
         "path": "/images/gallery/5.jpg"
+    },
+    {
+        "description": "A cross hanging over a Korean church in Oakland",
+        "path": "/images/gallery/6.jpg"
     }
 ]
