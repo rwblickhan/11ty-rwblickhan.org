@@ -82,7 +82,9 @@ My heart to home and trade and never live.
 
 - Paul Bowles, *The Sheltering Sky* (via [Futility Closet](https://www.futilitycloset.com/2022/04/20/countless/))
 
-> 'My father, that old snake, didn’t pass on the secret. He died without telling me. He took it to the grave. Skinflint scoundrel!' 'You see, it’s turned out very well. Come on, come on. Let’s go together, you and I. You’ll cast bells. I’ll paint icons. We’ll go to Trinity Monastery together. What a feast day for the people. You’ve brought them such joy, and you’re crying.'
+> 'My father, that old snake, didn’t pass on the secret. He died without telling me. He took it to the grave. Skinflint scoundrel!'
+>
+> 'You see, it’s turned out very well. Come on, come on. Let’s go together, you and I. You’ll cast bells. I’ll paint icons. We’ll go to Trinity Monastery together. What a feast day for the people. You’ve brought them such joy, and you’re crying.'
 
 - Andrei Tarkovsky's *Andrei Rublev*
 
@@ -98,11 +100,13 @@ My heart to home and trade and never live.
 
 - Ursula K. Le Guin, Ch. 3, *The Lathe of Heaven*, pg. 27
 
-> "I thought you could change the world. Is this the best you could do for us - this mess?" "It'll have to do."
+> 'I thought you could change the world. Is this the best you could do for us - this mess?'
+>
+> 'It'll have to do.'
 
-- Ursula K. Le Guin, Ch. 11, *The Lathe of Heaven*, pg. 183 
+- Ursula K. Le Guin, Ch. 11, *The Lathe of Heaven*, pg. 183
 
-> And look at that: the more I know about her, the less inclined I feel to pass a too-harsh or premature judgement. Some essential mercy in me has been switch on. What God has going for Him that we don't is infinite information. Maybe that's why He's able to, supposedly, love us so much.
+> And look at that: the more I know about her, the less inclined I feel to pass a too-harsh or premature judgement. Some essential mercy in me has been switched on. What God has going for Him that we don't is infinite information. Maybe that's why He's able to, supposedly, love us so much.
 
 - George Saunders, "Afterthought #3" *A Swim in the Pond in the Rain*, pg. 160
 
@@ -114,15 +118,17 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - Anton Chekhov (trans. Avraham Yarmolinsky), "Gooseberries"
 
-> "I have time," the skull replied reflectively. "It's really not so good to have time. Rush, scramble, desperation, this missed, that left behind, those others too big to fit into such a small space - that's the way life was meant to be. You're supposed to be too late for some things. Don't worry about it."
+> 'I have time,' the skull replied reflectively. 'It's really not so good to have time. Rush, scramble, desperation, this missed, that left behind, those others too big to fit into such a small space - that's the way life was meant to be. You're supposed to be too late for some things. Don't worry about it.'
 
 - Peter S. Beagle, *The Last Unicorn*, Ch. 12
 
-> "When I was alive, I believed - as you do - that time was at least as real and solid as myself, and probably more so. I said 'one o'clock' as though I could see it, and 'Monday' as though I could find it on the map; and I let myself be hurried along from minute to minute, day to day, year to year, as though I were actually moving from one place to another. Like everyone else, I lived in a house bricked up with second and minutes, weekend and New Year's Days, and I never went outside until I died, because there was no other door. Now I know that I could have walked through the walls."
+> When I was alive, I believed - as you do - that time was at least as real and solid as myself, and probably more so. I said 'one o'clock' as though I could see it, and 'Monday' as though I could find it on the map; and I let myself be hurried along from minute to minute, day to day, year to year, as though I were actually moving from one place to another. Like everyone else, I lived in a house bricked up with second and minutes, weekend and New Year's Days, and I never went outside until I died, because there was no other door. Now I know that I could have walked through the walls.
 
 - Peter S. Beagle, *The Last Unicorn*, Ch. 12
 
-> "It all seems a bit unfair, my lord, begging your pardon. What could we have done to save the unicorns? We were afraid of the Red Bull. What could we have done?" "One word might have been enough," King Lir replied. "You'll never know now."
+> 'It all seems a bit unfair, my lord, begging your pardon. What could we have done to save the unicorns? We were afraid of the Red Bull. What could we have done?'
+>
+> 'One word might have been enough,' King Lir replied. 'You'll never know now.'
 
 - Peter S. Beagle, *The Last Unicorn*, Ch. 14
 
