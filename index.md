@@ -30,12 +30,6 @@ I'm porting my fiancée's [EmomTimer Android app](https://github.com/frostyshado
 
 I'm watching a filmed Columbia course taught by Perry Merhling where he combines the economic and financial views of, well, money and banking.
 
-## Other Stuff
-
-* Sometimes I [take pictures](/gallery)!
-* I collect some of my [favorite quotes](/quotes).
-* I write up some of my [favorite recipes](/recipes).
-
 ## Colophon
 
 This site is generated with the [Eleventy (11ty)](https://www.11ty.dev) static site generator. It uses [Tailwind CSS](https://tailwindcss.com) for styling and [Vollkorn](http://vollkorn-typeface.com) as the main font. It's served out of an [AWS S3 bucket](https://aws.amazon.com/s3/) behind [Cloudflare's CDN](https://www.cloudflare.com/), with the infrastructure managed by [Pulumi](https://www.pulumi.com).

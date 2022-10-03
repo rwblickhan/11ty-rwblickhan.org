@@ -14,5 +14,9 @@
     {
         "name": "Gallery",
         "slug": "gallery"
+    },
+    {
+        "name": "Miscellaneous",
+        "slug": "misc"
     }
 ]
