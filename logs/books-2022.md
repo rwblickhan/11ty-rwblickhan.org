@@ -56,6 +56,7 @@ date: 2022-01-01
 50. *The Sandman Vol. 2: The Doll’s House*, Neil Gaiman
 51. *The Sandman Vol. 3: Dream Country*, Neil Gaiman
 52. *The Crucible*, Arthur Miller
+53. *The Plague*, Albert Camus (trans. Laura Marris)
 
 ## Skimmed
 
