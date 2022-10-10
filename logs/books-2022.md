@@ -58,6 +58,7 @@ date: 2022-01-01
 52. *The Crucible*, Arthur Miller
 53. *The Plague*, Albert Camus (trans. Laura Marris)
 54. *Orlando: A Biography*, Virginia Woolf
+55. *LaserWriter II*, Tamara Shopsin
 
 ## Skimmed
 
