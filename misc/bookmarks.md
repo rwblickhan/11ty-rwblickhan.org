@@ -4,6 +4,11 @@ title: Bookmarks
 date: 2022-10-03
 ---
 
+## Articles
+
+- ["The Crying of Lot 55: The Unsolved Mysteries and Alternate Realities of Andrew W.K."](https://www.stereogum.com/2015589/andrew-wk-steev-mike/columns/sounding-board/):
+  - Andrew W.K. is a hard rock musician known for hits like "Party Hard", with lyrics like, well, "party hard, party hard, party hard" - I happen to like some of his albums quite a bit. However, if you scratch just beneath the surface, you unveil a Lynchian nightmare of surrealism - why are all his lyrics so weird ("The face that you see when you look in the mirror / It won't be the same shape when you look at it hours from now")? Did he really hire impersonators to perform as himself? What's with his weird motivational speaking tour? Who's this Steev Mike guy he keeps referring to? Is it all just one big performance art piece? This pairs nicely with the video essay ["What IS Nathan Fielder?"](https://www.youtube.com/watch?v=iavoSO6lOLQ), which similarly plumbs the depths of persona and personal identity from the perspective of comedian Nathan Fielder.
+
 ## Talks
 
 - [“What We Can Learn From Software History”](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history):
@@ -13,7 +18,6 @@ date: 2022-10-03
 
 - [“The Thing Chinese Dramas Can’t Get Right - Qin 古琴 V2.0”](https://youtu.be/B9vwDeXQApI):
   - I love nothing more than video essays where a nerd goes deep, deep down a rabbit hole that should matter only to them but somehow manages to find something interesting at the bottom, and this is one of my favorite examples. This channel typically reviews Chinese dramas, which often present characters incorrectly playing the classic Chinese instrument 古琴 (guqin) - much to the host’s frustration, as she’s actually a practicing guqin player. So, in this 16-minute video, she presents how a guqin is _actually_ performed, which ends up being a tidy musicological lesson about one of the most popular instruments in history.
-
 
 ## Music
 
@@ -25,4 +29,3 @@ date: 2022-10-03
   - Look, it's a mashup of The Temptations' "Get Ready" and Black Sabbath's "Children of the Grave", and it's just... a really, really good song on its own merits?
 - ["If I Can Dream" from Elvis' '68 Comeback Special](https://youtu.be/u-pP_dCenJA):
   - So hey, turns out this Elvis guy is a pretty good singer?
-
