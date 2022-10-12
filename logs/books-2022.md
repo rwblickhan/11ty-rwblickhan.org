@@ -59,6 +59,7 @@ date: 2022-01-01
 53. *The Plague*, Albert Camus (trans. Laura Marris)
 54. *Orlando: A Biography*, Virginia Woolf
 55. *LaserWriter II*, Tamara Shopsin
+56. *Gulliver's Travels*, Jonathan Swift
 
 ## Skimmed
 
