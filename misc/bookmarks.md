@@ -8,6 +8,8 @@ date: 2022-10-03
 
 - ["The Crying of Lot 55: The Unsolved Mysteries and Alternate Realities of Andrew W.K."](https://www.stereogum.com/2015589/andrew-wk-steev-mike/columns/sounding-board/):
   - Andrew W.K. is a hard rock musician known for hits like "Party Hard", with lyrics like, well, "party hard, party hard, party hard" - I happen to like some of his albums quite a bit. However, if you scratch just beneath the surface, you unveil a Lynchian nightmare of surrealism - why are all his lyrics so weird ("The face that you see when you look in the mirror / It won't be the same shape when you look at it hours from now")? Did he really hire impersonators to perform as himself? What's with his weird motivational speaking tour? Who's this Steev Mike guy he keeps referring to? Is it all just one big performance art piece? This pairs nicely with the video essay ["What IS Nathan Fielder?"](https://www.youtube.com/watch?v=iavoSO6lOLQ), which similarly plumbs the depths of persona and personal identity from the perspective of comedian Nathan Fielder.
+- ["On Thud and Blunder"](https://www.sfwa.org/2005/01/04/on-thud-and-blunder/):
+  - Poul Anderson, one of the big names of early fantasy (*Three Hearts & Three Lions*, *The Broken Sword*), complains at length about the historical inaccuracies of the fantasy genre of his day, most of which are still true today! Some of his historical assertions are somewhat outdated, but the overall gist - that many fantasy writers don't even seem to bother using common sense while writing - is as true as ever.
 
 ## Talks
 
