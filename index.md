@@ -20,17 +20,21 @@ The best way to keep up with me is to punch in your email below to subscribe to 
 
 Just in time for Halloween, I recently finished a 20,000-word "dummy draft" of a horror story about a spooky hotel. I'll be expanding this into a real draft in the coming weeks.
 
-### "Three Lies"
-
-I wrote a surreal fantasy short story about a world where you only get three lies. I'm collecting beta feedback right now with the intent of throwing it into the submission grinder Soon™️.
-
 ### [EmomTimer](https://github.com/rwblickhan/EmomTimer)
 
 I'm porting my fiancée's [EmomTimer Android app](https://github.com/frostyshadows/EmomTimer) to SwiftUI.
 
 ### Photography
 
-I'm trying to get more serious about photography, although I'm just using a trusty iPhone 14 Pro as my camera. You can check out the [gallery](/gallery) for my most recent pictures.
+I'm trying to get more serious about photography, although I'm just using a trusty iPhone 14 Pro with [Halide Mk II](https://halide.cam/) as my camera and [Pixelmator Photo](https://www.pixelmator.com/photo/) for editing. You can check out the [gallery](/gallery) for my most recent pictures.
+
+### Practicing Guitar
+
+A few years ago I got myself to an advanced beginner state on guitar. I’m trying to pick that back up towards the end of the year.
+
+### Training for a Half Marathon
+
+I’m running the [Berkeley Half Marathon](https://berkeleyhalfmarathon.com/) in mid-November, so I’m training for that by running a few 10ks.
 
 ## Colophon
 
