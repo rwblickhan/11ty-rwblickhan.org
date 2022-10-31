@@ -6,7 +6,7 @@ date: 2021-01-01
 
 1. *My Dinner with Andre*
 2. *Space Is The Place*
-3. *Dr Strangelove, Or: How I Learned to Stop Worrying and Love the Bomb*
+3. 🔁 *Dr Strangelove, Or: How I Learned to Stop Worrying and Love the Bomb*
 4. *Arrival*
 5. *Crime Scene: The Vanishing at the Cecil Hotel*
 6. *To All the Boys: Always and Forever*
@@ -32,13 +32,13 @@ date: 2021-01-01
 26. *Do The Right Thing*
 27. *9/11 - The Filmmaker's Commemorative Edition*
 28. *Shang-Chi and the Legend of the Ten Rings*
-29. *The Princess Bride*
+29. 🔁 *The Princess Bride*
 30. *A Sun*
 31. *Spider-Man: Far From Home*
 32. *Nezha Conquers the Dragon King* (1979)
 33. *In the Mood for Love*
-34. *Shaun of the Dead*
-35. *Hamilton*
+34. 🔁 *Shaun of the Dead*
+35. 🔁 *Hamilton*
 36. *Shadow* (2018)
 37. *The Fate of Lee Khan*
 38. *Britney vs. Spears*
@@ -47,7 +47,7 @@ date: 2021-01-01
 41. *The Devil and Daniel Johnston*
 42. *Dune* (2021)
 43. *The Apartment*
-44. *Bolt*
+44. 🔁 *Bolt*
 45. *Twisted: The Untold Story of a Royal Vizier*
 46. *Spider-Man: No Way Home*
 47. *Son of the White Mare*

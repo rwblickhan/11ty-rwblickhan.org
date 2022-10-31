@@ -11,9 +11,9 @@ date: 2022-01-01
 5. *Don Quixote*, Miguel de Cervantes (trans. Edith Grossman)
 6. *Faust: A Tragedy*, Johann Wolfgang von Goethe (trans. Martin Greenberg)
 7. *The Minimalist Entrepreneur: How Great Founders Do More With Less*, Sahil Lavingia
-8. *The Tempest*, Shakespeare
+8. 🔁 *The Tempest*, Shakespeare
 9. *Four Thousand Weeks: Time Management for Mortals*, Oliver Burkeman
-10. *The Master & Margarita*, Mikhail Bulgakov (trans. Richard Pevear & Larissa Volokhonsky)
+10. 🔁 *The Master & Margarita*, Mikhail Bulgakov (trans. Richard Pevear & Larissa Volokhonsky)
 11. *Introduction to Classical Chinese Philosophy*, Bryan W. Van Norden
 12. *The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power*, Max Chafkin
 13. *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win*, Maria Konnikova
@@ -26,8 +26,8 @@ date: 2022-01-01
 20. *The Power Law: Venture Capital and the Making of the New Future*, Sebastian Mallaby
 21. *VC: An American History*, Tom Nicholas
 22. *Talent: How to Identify Energizers, Creatives, and Winners Around the World*, Tyler Cowen & Daniel Gross
-23. *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
-24. *The Restaurant at the End of the Universe*, Douglas Adams
+23. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
+24. 🔁 *The Restaurant at the End of the Universe*, Douglas Adams
 25. *Emma*, Jane Austen
 26. *Thinking in Systems: A Primer*, Donella H. Meadows (ed. Diana Wright)
 27. *Black Sun*, Rebecca Roanhorse
@@ -61,9 +61,9 @@ date: 2022-01-01
 55. *LaserWriter II*, Tamara Shopsin
 56. *Gulliver's Travels*, Jonathan Swift
 57. *His Dark Materials: Book 2 - The Subtle Knife*, Philip Pullman
-58. “Rappaccini’s Daughter”, Nathaniel Hawthorne
+58. 🔁 “Rappaccini’s Daughter”, Nathaniel Hawthorne
 59. “The Yellow Wallpaper”, Charlotte Perkins Gilman
-60. *Faust: A Tragedy*, Johann Wolfgang von Goethe (trans. Walter Arndt, ed. Cyrus Hamlin)
+60. 🔁 *Faust: A Tragedy*, Johann Wolfgang von Goethe (trans. Walter Arndt, ed. Cyrus Hamlin)
 
 ## Skimmed
 

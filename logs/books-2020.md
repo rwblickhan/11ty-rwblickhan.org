@@ -17,16 +17,16 @@ date: 2020-01-01
 9. *The Hungry Brain: Outsmarting the Instincts That Make Us Overeat*, Stephan Guyenet
 10. *Legend of the Condor Heroes #1: A Hero Born*, Jin Yong (trans. Anna Holmwood)
 11. *Introducing Daoism*, Livia Kohn
-12. *The Westing Game*, Ellen Raskin
+12. 🔁 *The Westing Game*, Ellen Raskin
 13. *Paradise Lost*, John Milton
 14. *Did God Have A Wife?: Archaeology and Folk Religion in Ancient Israel*, William G. Dever
-15. *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
+15. 🔁 *The Hitchhiker’s Guide to the Galaxy*, Douglas Adams
 16. *The Hebrew Bible: A Translation with Commentary - The Five Books of Moses*, (trans. Robert Alter)
 17. *Timaeus* and *Critias*, Plato (trans. Robin Waterfield)
 18. *The Golden Ass*, Apuleius (trans. P.G. Walsh)
 19. *Handbook of Chinese Mythology*, Yang Lihui, An Deming, and Jessica Anderson Turner
 20. *The Iliad*, Homer (trans. Caroline Alexander)
-21. *The Odyssey*, Homer (trans. Emily Wilson)
+21. 🔁 *The Odyssey*, Homer (trans. Emily Wilson)
 22. *The Trojan Women*, Euripides (trans. Emily Wilson)
 23. *The Peach Blossom Fan*, Kong Shangren (trans. Chen Shih-Hsiang, Harold Acton, and Cyril Birch)
 24. *Myths from Mesopotamia* (trans. Stephanie Dalley)
@@ -39,7 +39,7 @@ date: 2020-01-01
 31. *Bacchae*, Euripides (trans. Emily Wilson)
 32. *Prometheus Bound* (trans. James Romm)
 33. *My Year of Rest and Relaxation*, Ottessa Moshfegh
-34. *Persepolis: The Story of a Childhood*, Marjane Satrapi
+34. 🔁 *Persepolis: The Story of a Childhood*, Marjane Satrapi
 35. *The Divine Comedy*, Dante (trans. C.H. Sisson)
 36. *A History of Philosophy Without Any Gaps: Volume 2 - Philosophy in the Hellenistic & Roman Worlds*, Peter Adamson
 37. *The Lotus Sutra* (trans. Tsugunari Kubo and Akira Yuyama)
