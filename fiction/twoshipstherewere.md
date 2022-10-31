@@ -2,7 +2,7 @@
 tags: fiction
 title: Two Ships There Were
 date: 2020-03-04
-snippet: "Nonsense poem in the tradition of Lewis Carroll."
+snippet: "A nonsense poem in the tradition of Lewis Carroll."
 ---
 
 Two ships there were  

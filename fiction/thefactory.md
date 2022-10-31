@@ -2,7 +2,7 @@
 tags: fiction
 title: The Factory
 date: 2020-08-23
-snippet: "Short cosmic horror."
+snippet: "A linguist studies an alien inscription in a mysterious facility."
 ---
 
 They had found the Factory in the darkened valley of an airless moon.
