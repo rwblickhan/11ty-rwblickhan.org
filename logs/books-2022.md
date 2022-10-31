@@ -63,6 +63,7 @@ date: 2022-01-01
 57. *His Dark Materials: Book 2 - The Subtle Knife*, Philip Pullman
 58. “Rappaccini’s Daughter”, Nathaniel Hawthorne
 59. “The Yellow Wallpaper”, Charlotte Perkins Gilman
+60. *Faust: A Tragedy*, Johann Wolfgang von Goethe (trans. Walter Arndt, ed. Cyrus Hamlin)
 
 ## Skimmed
 
