@@ -2,7 +2,7 @@
 tags: fiction
 title: Three Lies
 date: 2022-10-21
-snippet: "Surreal fantasy."
+snippet: "You are allowed only three lies in your life."
 ---
 
 When you are born, as the priests sprinkle water on your forehead, they pray that you will not lie.

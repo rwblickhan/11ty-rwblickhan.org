@@ -10,7 +10,7 @@ date: 2021-01-01
 4. *Marie de France: Poetry*, Marie de France (trans. Dorothy Gilbert)
 5. *William Blake* (edited Martin Myrone and Amy Concannon)
 6. *The Chronicles of Narnia: The Magician's Nephew*, C.S. Lewis
-7. *Beowulf* (trans. Maria Dahvana Headley)
+7. 🔁 *Beowulf* (trans. Maria Dahvana Headley)
 8. *The Tibetan Book of the Dead: A Biography*, Donald S. Lopez, Jr.
 9. *The Buried Giant*, Kazuo Ishiguro
 10. *The Last Samurai*, Helen DeWitt
@@ -46,16 +46,16 @@ date: 2021-01-01
 40. *The Turn of the Screw*, Henry James
 41. *Building Mobile Apps At Scale: 39 Engineering Challenges*, Gergely Orosz
 42. *We Have Always Lived In The Castle*, Shirley Jackson
-43. *Scott Pilgrim Vol. 1: Scott Pilgrim's Precious Little Life*, Bryan Lee O'Malley
+43. 🔁 *Scott Pilgrim Vol. 1: Scott Pilgrim's Precious Little Life*, Bryan Lee O'Malley
 44. *Hamnet: A Novel of the Plague*, Maggie O'Farrell
 45. *The Haunting of Hill House*, Shirley Jackson
-46. *Scott Pilgrim Vol. 2: Scott Pilgrim vs. the World*, Bryan Lee O'Malley
+46. 🔁 *Scott Pilgrim Vol. 2: Scott Pilgrim vs. the World*, Bryan Lee O'Malley
 47. *Layli and Majnun*, Nezami Ganjavi (trans. Dick Davis)
-48. *Scott Pilgrim Vol. 3: Scott Pilgrim & The Infinite Sadness*, Bryan Lee O'Malley
-49. *Scott Pilgrim Vol. 4: Scott Pilgrim Gets It Together*, Bryan Lee O'Malley
+48. 🔁 *Scott Pilgrim Vol. 3: Scott Pilgrim & The Infinite Sadness*, Bryan Lee O'Malley
+49. 🔁 *Scott Pilgrim Vol. 4: Scott Pilgrim Gets It Together*, Bryan Lee O'Malley
 50. *Creation of the Gods* (trans. Gu Zhizhong)
-51. *Scott Pilgrim Vol. 5: Scott Pilgrim vs. the Universe*, Bryan Lee O'Malley
-52. *Scott Pilgrim Vol. 6: Scott Pilgrim's Finest Hour*, Bryan Lee O'Malley
+51. 🔁 *Scott Pilgrim Vol. 5: Scott Pilgrim vs. the Universe*, Bryan Lee O'Malley
+52. 🔁 *Scott Pilgrim Vol. 6: Scott Pilgrim's Finest Hour*, Bryan Lee O'Malley
 53. *Candide*, Voltaire (trans. The Modern Library)
 54. *The Invention of Morel*, Adolfo Bioy Casares (trans. Ruth L.C. Simms)
 55. *The Man Who Solved The Market: How Jim Simons Launched The Quant Revolution*, Gregory Zuckerman

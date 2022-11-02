@@ -2,7 +2,7 @@
 tags: fiction
 title: The House
 date: 2020-12-20
-snippet: "Surreal horror."
+snippet: "A man buys a house that is larger on the inside than the outside."
 ---
 
 Let me tell you about a House.

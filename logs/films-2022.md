@@ -4,7 +4,7 @@ title: Films of 2022
 date: 2022-01-01
 ---
 
-1. *Kiki's Delivery Service* (... twice)
+1. 🔁 *Kiki's Delivery Service* (... twice)
 2. *Evangelion:3.0+1.0 Thrice Upon a Time*
 3. *Ne Zha* (2019)
 4. *Uproar in Heaven* (1964)
@@ -16,7 +16,7 @@ date: 2022-01-01
 10. *Ali Wong: Don Wong*
 11. *Mountains May Depart*
 12. *Stalker* (1979)
-13. *Spider-Man* (2002)
+13. 🔁 *Spider-Man* (2002)
 14. *Destino* (2003)
 15. *Last Year at Marienbad*
 16. *West Side Story* (2021)
@@ -45,6 +45,6 @@ date: 2022-01-01
 39. *Fallen Angels* (1995)
 40. *Andrey Tarkovsky. A Cinema Prayer*
 41. *Decision to Leave*
-42. *The Grand Budapest Hotel*
-43. *Lilo & Stitch*
+42. 🔁 *The Grand Budapest Hotel*
+43. 🔁 *Lilo & Stitch*
 44. *tick, tick… BOOM!*
