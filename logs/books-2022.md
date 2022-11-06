@@ -64,6 +64,7 @@ date: 2022-01-01
 58. 🔁 “Rappaccini’s Daughter”, Nathaniel Hawthorne
 59. “The Yellow Wallpaper”, Charlotte Perkins Gilman
 60. 🔁 *Faust: A Tragedy*, Johann Wolfgang von Goethe (trans. Walter Arndt, ed. Cyrus Hamlin)
+61. *Randical Candor: Be a Kick-Ass Boss Without Losing Your Humanity*, Kim Scott
 
 ## Skimmed
 
