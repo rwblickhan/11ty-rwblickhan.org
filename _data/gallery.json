@@ -26,5 +26,9 @@
     {
         "description": "A building along 3rd St",
         "path": "/images/gallery/7.jpg"
+    },
+    {
+        "description": "A view down 18th St",
+        "path": "/images/gallery/8.jpg"
     }
 ]
