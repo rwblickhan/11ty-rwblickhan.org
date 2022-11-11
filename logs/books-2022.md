@@ -66,6 +66,7 @@ date: 2022-01-01
 60. 🔁 *Faust: A Tragedy*, Johann Wolfgang von Goethe (trans. Walter Arndt, ed. Cyrus Hamlin)
 61. *Randical Candor: Be a Kick-Ass Boss Without Losing Your Humanity*, Kim Scott
 62. *The Sandman Vol. 4: Season of Mists*, Neil Gaiman
+63. *The Sandman Vol. 5: A Game of You*, Neil Gaiman
 
 ## Skimmed
 

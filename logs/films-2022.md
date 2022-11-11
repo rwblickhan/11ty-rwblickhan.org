@@ -50,4 +50,5 @@ date: 2022-01-01
 44. *tick, tick… BOOM!*
 45. *Wedding Season*
 46. *Eraserhead*
-47. *Jabberwocky* (1977) 
+47. *Jabberwocky* (1977)
+48. *Black Panther: Wakanda Forever*
