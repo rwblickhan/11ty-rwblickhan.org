@@ -67,6 +67,7 @@ date: 2022-01-01
 61. *Randical Candor: Be a Kick-Ass Boss Without Losing Your Humanity*, Kim Scott
 62. *The Sandman Vol. 4: Season of Mists*, Neil Gaiman
 63. *The Sandman Vol. 5: A Game of You*, Neil Gaiman
+64. 🔁 *The Scarlet Letter*, Nathaniel Hawthorne
 
 ## Skimmed
 
