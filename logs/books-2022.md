@@ -68,6 +68,7 @@ date: 2022-01-01
 62. *The Sandman Vol. 4: Season of Mists*, Neil Gaiman
 63. *The Sandman Vol. 5: A Game of You*, Neil Gaiman
 64. 🔁 *The Scarlet Letter*, Nathaniel Hawthorne
+65. 🔁 *A Midsummer Night's Dream*, William Shakespeare
 
 ## Skimmed
 
