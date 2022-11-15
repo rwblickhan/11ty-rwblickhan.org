@@ -28,6 +28,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy('styles/Vollkorn')
   eleventyConfig.addPassthroughCopy('styles/pygments.css')
   eleventyConfig.addPassthroughCopy('images')
+  eleventyConfig.addPassthroughCopy('files')
   eleventyConfig.addPassthroughCopy('tailwind_styles')
 
   // Rebuild the site whenever there is a change in the `vendor` directory.
