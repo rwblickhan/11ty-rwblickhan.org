@@ -1,8 +1,7 @@
 ---
-tags: nonfiction
+tags: misc
 title: "Reading Recommendations"
 date: 2022-09-31
-snippet: "A list of non-fiction blogs and newsletters I like"
 ---
 
 ## Non-Technical
