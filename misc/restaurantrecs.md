@@ -7,6 +7,6 @@ date: 2022-11-14
 ## San Francisco
 
 - Saap Ver: Country-style Thai street food that's arguably my favorite restaurant in San Francisco. Their specialities include variants of papaya salad and extremely spicy sausage, but I'm personally fond of their crispy pork belly fried rice and duck curry.
-- Delah Coffee: Yemeni coffee shop that stays open until 10pm (!). Trying a pot of the spiced coffee is a must, but I go back for the wide variety of pastries, especially the hot pink rose petal cake.
+- Delah Coffee: Yemeni coffee shop that stays open until 10pm (in San Francisco!). Trying a pot of the spiced coffee is a must, but I go back for the wide variety of pastries, especially the hot pink rose petal cake.
 - Saigon Sandwich: Cash-only $4 banh mi, so you _know_ it's good.
 - Schlok's Bagels & Lox: Yes, the bagels are $3 a piece, but they're worth it. I typically get the egg & cheese sandwich with ham on an untoasted plain bagel, alongside an everything bagel with cream cheese. It's also convenient to bike to, sitting at one end of [the Wiggle](https://en.wikipedia.org/wiki/The_Wiggle).
