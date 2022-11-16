@@ -20,22 +20,6 @@ The best way to keep up with me is to punch in your email below to subscribe to 
 
 Just in time for Halloween, I recently finished a 20,000-word "dummy draft" of a horror story about a spooky hotel. I'll be expanding this into a real draft in the coming weeks.
 
-### [EmomTimer](https://github.com/rwblickhan/EmomTimer)
-
-I'm porting my fiancée's [EmomTimer Android app](https://github.com/frostyshadows/EmomTimer) to SwiftUI.
-
-### Photography
-
-I'm trying to get more serious about photography, although I'm just using a trusty iPhone 14 Pro with [Halide Mk II](https://halide.cam/) as my camera and [Pixelmator Photo](https://www.pixelmator.com/photo/) for editing. You can check out the [gallery](/gallery) for my most recent pictures.
-
-### Practicing Guitar
-
-A few years ago I got myself to an advanced beginner state on guitar. I’m trying to pick that back up towards the end of the year.
-
-### Training for a Half Marathon
-
-I’m running the [Berkeley Half Marathon](https://berkeleyhalfmarathon.com/) in mid-November, so I’m training for that by running a few 10ks.
-
 ## Colophon
 
 This site is generated with the [Eleventy (11ty)](https://www.11ty.dev) static site generator. It uses [Tailwind CSS](https://tailwindcss.com) for styling and [Vollkorn](http://vollkorn-typeface.com) as the main font. It's served out of an [AWS S3 bucket](https://aws.amazon.com/s3/) behind [Cloudflare's CDN](https://www.cloudflare.com/), with the infrastructure managed by [Pulumi](https://www.pulumi.com).
