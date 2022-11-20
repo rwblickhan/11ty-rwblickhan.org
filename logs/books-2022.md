@@ -70,6 +70,7 @@ date: 2022-01-01
 64. 🔁 *The Scarlet Letter*, Nathaniel Hawthorne
 65. 🔁 *A Midsummer Night's Dream*, William Shakespeare
 66. *Hell House*, Richard Matheson
+67. *The English Understand Wool*, Helen DeWitt
 
 ## Skimmed
 
