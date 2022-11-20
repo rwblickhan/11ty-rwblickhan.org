@@ -53,3 +53,4 @@ date: 2022-01-01
 47. *Jabberwocky* (1977)
 48. *Black Panther: Wakanda Forever*
 49. 🔁 *The End of Evangelion*
+50. *Hausu*
