@@ -30,5 +30,9 @@
     {
         "description": "A view down 18th St",
         "path": "/images/gallery/8.jpg"
+    },
+    {
+        "description": "A view out an airplane window at dusk",
+        "path": "/images/gallery/9.jpg"
     }
 ]
