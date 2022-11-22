@@ -71,6 +71,7 @@ date: 2022-01-01
 65. 🔁 *A Midsummer Night's Dream*, William Shakespeare
 66. *Hell House*, Richard Matheson
 67. *The English Understand Wool*, Helen DeWitt
+68. *Uzumaki: Spiral into Horror*, Junji Ito
 
 ## Skimmed
 
