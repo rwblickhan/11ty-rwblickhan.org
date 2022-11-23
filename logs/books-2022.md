@@ -72,6 +72,7 @@ date: 2022-01-01
 66. *Hell House*, Richard Matheson
 67. *The English Understand Wool*, Helen DeWitt
 68. *Uzumaki: Spiral into Horror*, Junji Ito
+69. 🔁 *Batman: The Dark Knight Returns*, Frank Miller
 
 ## Skimmed
 
