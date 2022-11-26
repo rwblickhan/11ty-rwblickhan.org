@@ -18,7 +18,9 @@ The best way to keep up with me is to punch in your email below to subscribe to 
 
 ### *Dreams of an Alien God*
 
-Just in time for Halloween, I recently finished a 20,000-word "dummy draft" of a horror story about a spooky hotel. I'll be expanding this into a real draft in the coming weeks.
+I’m writing a horror novel about a woman with bipolar disorder exploring a haunted hotel.
+- The 20,000 word dummy draft is **done**.
+- The first draft currently has **4,781 words**.
 
 ## Colophon
 
