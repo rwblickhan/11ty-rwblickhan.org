@@ -5,7 +5,7 @@ date: 2022-01-01
 ---
 
 1. 🔁 *Kiki's Delivery Service* (... twice)
-2. *Evangelion:3.0+1.0 Thrice Upon a Time*
+2. *Evangelion: 3.0+1.0 Thrice Upon a Time*
 3. *Ne Zha* (2019)
 4. *Uproar in Heaven* (1964)
 5. *Meshes of the Afternoon*
@@ -54,3 +54,4 @@ date: 2022-01-01
 48. *Black Panther: Wakanda Forever*
 49. 🔁 *The End of Evangelion*
 50. *Hausu*
+51. *Evangelion: 2.0 You Can (Not) Advance*
