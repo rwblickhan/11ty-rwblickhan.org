@@ -4,7 +4,7 @@ title: R. W. Blickhan
 
 ## About
 
-Professionally, I am an iOS developer at [Asana](https://asana.com/). I have a bachelor's degree in computer science & mathematics from the [University of British Columbia](https://www.ubc.ca/), though generally speaking my interests lean towards the humanities (particularly literature, history, cultural anthropology, political science, and economics). My latest resume is available [here](/files/resume.pdf).
+Professionally, I am a product engineer at [Asana](https://asana.com/). I have a bachelor's degree in computer science & mathematics from the [University of British Columbia](https://www.ubc.ca/), though generally speaking my interests lean towards the humanities (particularly literature, history, cultural anthropology, political science, and economics). My latest resume is available [here](/files/resume.pdf).
 
 I live in San Francisco with [my fiancée Sherry](http://sherryyuan.me) and our small canine companion Rooibos.
 
