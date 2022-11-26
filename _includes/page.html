@@ -2,8 +2,11 @@
 <html lang="en">
     {% include "head.html" %}
     <body>
-        {% include "header.html" %} {% case type %} {% when "index" %} {%
-        include "section_index.html" %} {% when "gallery" %} {% include
-        "gallery.html" %} {% else %} {% include "main.html" %} {% endcase %}
+        {% include "header.html" %}
+        {% case type %}
+            {% when "index" %} {%include "section_index.html" %}
+            {% when "gallery" %} {% include "gallery.html" %}
+            {% else %} {% include "main.html" %}
+        {% endcase %}
     </body>
 </html>

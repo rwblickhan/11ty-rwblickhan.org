@@ -3,11 +3,13 @@
         class="mb-4 prose dark:prose-invert dark:prose-headings:text-rwb-text-dark"
     >
         {% if title %}
-        <h1>{{ title }}</h1>
-        {% endif %} {{ content }}
+            <h1>{{ title }}</h1>
+        {% endif %}
+        {{ content }}
     </div>
     <div class="grid gap-4 grid-cols-1 md:grid-cols-2 grid-rows-none">
-        {% for gallery_image in gallery %} {% image gallery_image.path
-        gallery_image.description %} {% endfor %}
+        {% for gallery_image in gallery %}
+            {% image gallery_image.path gallery_image.description %}
+        {% endfor %}
     </div>
 </div>
