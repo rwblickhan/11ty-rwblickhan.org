@@ -9,19 +9,23 @@ const siteDomain = config.get("siteDomain") || "rwblickhan.org";
 const site = new aws.s3.BucketV2("site", {
     bucket: siteDomain,
     acl: "public-read",
-    websites: [{
-        indexDocument: "index.html",
-        errorDocument: "index.html",
-    }],
+    websites: [
+        {
+            indexDocument: "index.html",
+            errorDocument: "index.html",
+        },
+    ],
 });
 
 const www = new aws.s3.BucketV2("www", {
     bucket: `www.${siteDomain}`,
     acl: "private",
     policy: "",
-    websites: [{
-        redirectAllRequestsTo: `https://${siteDomain}`,
-    }],
+    websites: [
+        {
+            redirectAllRequestsTo: `https://${siteDomain}`,
+        },
+    ],
 });
 
 const backup = new aws.s3.BucketV2("backup", {
@@ -32,19 +36,20 @@ const backup = new aws.s3.BucketV2("backup", {
 
 const publicRead = new aws.s3.BucketPolicy("publicRead", {
     bucket: site.id,
-    policy: pulumi.all([site.arn, site.arn]).apply(([siteArn, siteArn1]) => JSON.stringify({
-        Version: "2012-10-17",
-        Statement: [{
-            Sid: "PublicReadGetObject",
-            Effect: "Allow",
-            Principal: "*",
-            Action: "s3:GetObject",
-            Resource: [
-                siteArn,
-                `${siteArn1}/*`,
+    policy: pulumi.all([site.arn, site.arn]).apply(([siteArn, siteArn1]) =>
+        JSON.stringify({
+            Version: "2012-10-17",
+            Statement: [
+                {
+                    Sid: "PublicReadGetObject",
+                    Effect: "Allow",
+                    Principal: "*",
+                    Action: "s3:GetObject",
+                    Resource: [siteArn, `${siteArn1}/*`],
+                },
             ],
-        }],
-    })),
+        })
+    ),
 });
 
 const domain = cloudflare.getZones({

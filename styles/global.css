@@ -7,7 +7,7 @@
         font-family: Vollkorn;
         @apply bg-white dark:bg-rwb-background-dark;
     }
-    
+
     hr.solid {
         @apply border-t border-black border-solid;
     }

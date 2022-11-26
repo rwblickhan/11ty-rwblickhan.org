@@ -1,6 +1,9 @@
 {
-    "files.exclude": {
-        "tailwind_styles": true
-    },
-    "deno.enable": true
+  "files.exclude": {
+    "tailwind_styles": true
+  },
+  "deno.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
 }
