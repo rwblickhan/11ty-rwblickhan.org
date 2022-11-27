@@ -73,6 +73,7 @@ date: 2022-01-01
 67. *The English Understand Wool*, Helen DeWitt
 68. *Uzumaki: Spiral into Horror*, Junji Ito
 69. 🔁 *Batman: The Dark Knight Returns*, Frank Miller
+70. *The Sandman Vol. 6: Fables & Reflections*, Neil Gaiman
 
 ## Skimmed
 
