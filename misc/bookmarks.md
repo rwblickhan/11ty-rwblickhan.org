@@ -17,7 +17,7 @@ date: 2022-10-03
 
 - [“What We Can Learn From Software History”](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history):
   - Hillel Wayne shows the power of the historical method by trying to answer a seemingly-simple question: why do software engineering interviews often ask “reverse a linked list”?
-- ["Coordination Headwind: How Organizatiosn Are Like Slime Molds"](https://komoroske.com/slime-mold/):
+- ["Coordination Headwind: How Organizations Are Like Slime Molds"](https://komoroske.com/slime-mold/):
   - Alex Komoroske explores a simplified model of how organizations fail their goals - mostly due to coordination overhead - and how we might overcome it.
   - See also [Venkatesh Rao's commentary](https://studio.ribbonfarm.com/p/coordination-headwinds).
 
