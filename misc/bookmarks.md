@@ -13,10 +13,13 @@ date: 2022-10-03
 - [“The MIT License, Line by Line”](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html):
   - Lawyer and open-source programmer Kyle E. Mitchell walks through the iconic MIT License for open-source software and explains, in a legal sense, what each individual line means. He has a few grumpy observations but otherwise this should be required reading for anyone using the MIT License.
 
-## Talks
+## Talks / Presentations
 
 - [“What We Can Learn From Software History”](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history):
   - Hillel Wayne shows the power of the historical method by trying to answer a seemingly-simple question: why do software engineering interviews often ask “reverse a linked list”?
+- ["Coordination Headwind: How Organizatiosn Are Like Slime Molds"](https://komoroske.com/slime-mold/):
+  - Alex Komoroske explores a simplified model of how organizations fail their goals - mostly due to coordination overhead - and how we might overcome it.
+  - See also [Venkatesh Rao's commentary](https://studio.ribbonfarm.com/p/coordination-headwinds).
 
 ## Video Essays
 
