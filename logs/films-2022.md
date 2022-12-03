@@ -54,4 +54,5 @@ date: 2022-01-01
 48. *Black Panther: Wakanda Forever*
 49. 🔁 *The End of Evangelion*
 50. *Hausu*
-51. *Evangelion: 2.0 You Can (Not) Advance*
+51. 🔁 *Evangelion: 2.0 You Can (Not) Advance*
+52. 🔁 *Evangelion: 3.0 You Can (Not) Redo*
