@@ -155,4 +155,9 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - Nezami Ganjavi (trans. Dick Davis), *Layli and Majnun*, pg. 176
 
+> I place one step beyond both worlds, and wine\
+> Unearthly and eternal there is mine.
+
+- Nezami Ganjavi (trans. Dick Davis), *Layli and Majnun*, pg. 199
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
