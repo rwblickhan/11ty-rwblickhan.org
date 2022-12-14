@@ -140,4 +140,19 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 - [“the idea you have”](https://ambientehotel.wordpress.com/2021/10/05/the-idea-you-have/), M. John Harrison 
 
+> Look at yourself - what leaf, what tiny tree\
+> Are you in all the countryside we see?\
+> Look at how small you are, beneath the high\
+> And overarching vastness of the sky-\
+> Examine who are you, do it with care,\
+> Your own assessment says you're hardly there.\
+> You thought you were a great thing on the earth,\
+> Well satisfied with your extent and worth,\
+> This "greatness" though, is relatively small,\
+> So low you'll think you're scarcely there at all,\
+> If you go further on, if you persist,\
+> You'll find you even doubt that you exist.
+
+- Nezami Ganjavi (trans. Dick Davis), *Layli and Majnun*, pg. 176
+
 [^1]: I haven't been able to find a reliable source for this quote. I've taken it from [Rob Brezsny's Free Will Astrology](https://freewillastrology.com/horoscopes/) for the week of Sep. 24, 2020.
