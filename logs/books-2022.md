@@ -75,6 +75,7 @@ date: 2022-01-01
 69. 🔁 *Batman: The Dark Knight Returns*, Frank Miller
 70. *The Sandman Vol. 6: Fables & Reflections*, Neil Gaiman
 71. *Junji Ito's Cat Diary: Yon & Mu*, Junji Ito
+72. 🔁 *Layli and Majnun*, Nezami Ganjavi (trans. Dick Davis)
 
 ## Skimmed
 
