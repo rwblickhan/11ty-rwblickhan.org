@@ -76,6 +76,7 @@ date: 2022-01-01
 70. *The Sandman Vol. 6: Fables & Reflections*, Neil Gaiman
 71. *Junji Ito's Cat Diary: Yon & Mu*, Junji Ito
 72. 🔁 *Layli and Majnun*, Nezami Ganjavi (trans. Dick Davis)
+73. *Walkable City: How Downtown Can Save America, One Step at a Time*, Jeff Speck
 
 ## Skimmed
 
