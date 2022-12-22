@@ -57,3 +57,5 @@ date: 2022-01-01
 51. 🔁 *Evangelion: 2.0 You Can (Not) Advance*
 52. 🔁 *Evangelion: 3.0 You Can (Not) Redo*
 53. 🔁 *Spirited Away*
+54. *Cleo from 5 to 7*
+55. *The Exterminating Angel*
