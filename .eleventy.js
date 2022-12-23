@@ -1,3 +1,4 @@
+const eleventyGoogleFonts = require("eleventy-google-fonts");
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require("markdown-it-anchor");
@@ -29,6 +30,7 @@ module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("files");
     eleventyConfig.addPassthroughCopy("tailwind_styles");
+    eleventyConfig.addPassthroughCopy("robots.txt");
 
     // Rebuild the site whenever there is a change in the `vendor` directory.
     eleventyConfig.addWatchTarget("vendor");
@@ -51,6 +53,7 @@ module.exports = eleventyConfig => {
             .use(markdownItFootnote)
     );
 
+    eleventyConfig.addPlugin(eleventyGoogleFonts);
     eleventyConfig.addPlugin(syntaxHighlight);
     eleventyConfig.addPlugin(pluginRSS);
     eleventyConfig.addPlugin(pluginTOC);
