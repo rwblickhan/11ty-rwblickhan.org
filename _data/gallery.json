@@ -34,5 +34,9 @@
     {
         "description": "A view out an airplane window at dusk",
         "path": "/images/gallery/9.jpg"
+    },
+    {
+        "description": "A dark alley in Soma",
+        "path": "/images/gallery/10.jpg"
     }
 ]
