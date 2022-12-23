@@ -1,5 +1,4 @@
 const markdownIt = require("markdown-it");
-const markdownItAbbr = require("markdown-it-abbr");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginRSS = require("@11ty/eleventy-plugin-rss");
@@ -26,7 +25,7 @@ async function imageShortcode(src, alt) {
 
 module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy("styles/Vollkorn");
-    eleventyConfig.addPassthroughCopy("styles/pygments.css");
+    eleventyConfig.addPassthroughCopy("styles/prism-okaidia.css");
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("files");
     eleventyConfig.addPassthroughCopy("tailwind_styles");
@@ -48,7 +47,6 @@ module.exports = eleventyConfig => {
     eleventyConfig.setLibrary(
         "md",
         markdownIt(options)
-            .use(markdownItAbbr)
             .use(markdownItAnchor)
             .use(markdownItFootnote)
     );

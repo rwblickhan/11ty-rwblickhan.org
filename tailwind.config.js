@@ -1,10 +1,11 @@
 /** @type {import('tailwindcss').Config} */
+const defaultTheme = require('tailwindcss/defaultTheme')
 module.exports = {
     content: ["**/*.html", "**/*.md"],
     theme: {
         fontFamily: {
-            sans: ["Vollkorn"],
-            serif: ["Vollkorn"],
+            sans: ["Vollkorn", ...defaultTheme.fontFamily.sans],
+            serif: ["Vollkorn", ...defaultTheme.fontFamily.serif],
         },
         extend: {
             colors: {
