@@ -59,3 +59,4 @@ date: 2022-01-01
 53. 🔁 *Spirited Away*
 54. *Cleo from 5 to 7*
 55. *The Exterminating Angel*
+56. *Spirited* (2022)
