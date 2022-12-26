@@ -60,3 +60,4 @@ date: 2022-01-01
 54. *Cleo from 5 to 7*
 55. *The Exterminating Angel*
 56. *Spirited* (2022)
+57. *Glass Onion: A Knives Out Mystery*
