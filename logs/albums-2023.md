@@ -6,3 +6,5 @@ date: 2023-01-01
 
 1. *Blue Rev*, Alvvays
 2. *Soft Spot*, Chelsea Jade
+3. *What Does It Mean To Be American?*, Robert Stillman
+4. *Portals*, Robert Stillman
