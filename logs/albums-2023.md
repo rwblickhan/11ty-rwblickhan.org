@@ -10,3 +10,4 @@ date: 2023-01-01
 4. *Portals*, Robert Stillman
 5. *Comradely Objects*, Horse Lords
 6. *The Common Task*, Horse Lords
+7. *RENAISSANCE*, Beyonce
