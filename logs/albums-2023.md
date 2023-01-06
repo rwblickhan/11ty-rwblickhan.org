@@ -12,3 +12,4 @@ date: 2023-01-01
 6. *The Common Task*, Horse Lords
 7. *RENAISSANCE*, Beyonce
 8. *Living Sky*, Sun Ra Arkestra
+9. *CAPRISONGS*, FKA twigs
