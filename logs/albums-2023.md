@@ -13,3 +13,4 @@ date: 2023-01-01
 7. *RENAISSANCE*, Beyonce
 8. *Living Sky*, Sun Ra Arkestra
 9. *CAPRISONGS*, FKA twigs
+10. *bandaids EP*, Keshi
