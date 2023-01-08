@@ -5,6 +5,7 @@ date: 2022-09-31
 ---
 
 ## Non-Technical
+
 - [A Collection of Unmitigated Pedantry][1] (Bret Deveraux): Roman / medieval historian, often focused on warfare via a pop culture lens; much more interesting than it sounds and one of my primary intellectal influences
 - [The Whippet][2]: Fun facts and trivia with a strong voice
 - [Robin Sloan][3]: Bay Area-based writer (*Mr Penumbra's 24-Hour Bookstore*, *Sourdough*) whose newsletter are always full of insight; *Year of the Meteor* was the direct inspiration for my newsletter
@@ -23,43 +24,45 @@ date: 2022-09-31
 - [Marginal Revolution][17]: Arguably the most influential libertarian active today; deeply opiniated but can be worth reading, albeit with a truckload of salt
 
 ## Technical Writing
-For each of these I dropped the description but included a link to a representative post for each. Many of these have a blog *and* newsletter with slightly different content.
-- *Computer Stuff* (Hillel Wayne):
-	- ["Mystery Knowledge"][18]
-- Julia Evans
-	- [“What happens when you press a key in your terminal?”][19]
-- Aphyr:
-	- ["Hexing the Technical Interview"][20]
-- apenwarr:
-	- ["Systems design explains the world: volume 1"][21]
-- brandur:
-	- ["Soft Deletion Probably Isn't Worth It"][22]
-- Dan Luu:
-	- ["95%-ile isn't that good"][23]
-- Matt Rickard:
-	- ["The Unreasonable Effectiveness of Makefiles"][24]
 
-[1]:	https://acoup.blog/
-[2]:	https://thewhippet.org/
-[3]:	https://www.robinsloan.com/
-[4]:	https://craigmod.com/
-[5]:	https://www.bloomberg.com/account/newsletters/money-stuff
-[6]:	https://bam.kalzumeus.com/
-[7]:	https://waxy.org/
-[8]:	https://theuntranslated.wordpress.com/
-[9]:	https://www.robinrendle.com/
-[10]:	https://www.robinrendle.com/essays/in-praise-of-shadows/
-[11]:	https://maggieappleton.com/
-[12]:	https://thesephist.com/
-[13]:	https://maya.land/
-[14]:	https://www.granolashotgun.com/
-[15]:	http://blog.nuclearsecrecy.com/
-[16]:	https://astralcodexten.substack.com/
-[17]:	https://marginalrevolution.com/
-[18]:	https://buttondown.email/hillelwayne/archive/mystery-knowledge-worskshop-discount/
-[19]:	https://jvns.ca/blog/2022/07/20/pseudoterminals/
-[20]:	https://aphyr.com/posts/341-hexing-the-technical-interview
-[21]:	https://apenwarr.ca/log/20201227
-[22]:	https://brandur.org/soft-deletion
-[23]:	https://danluu.com/p95-skill/
-[24]:	https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles
+For each of these I dropped the description but included a link to a representative post for each. Many of these have a blog *and* newsletter with slightly different content.
+
+- *Computer Stuff* (Hillel Wayne):
+  - ["Mystery Knowledge"][18]
+- Julia Evans
+  - [“What happens when you press a key in your terminal?”][19]
+- Aphyr:
+  - ["Hexing the Technical Interview"][20]
+- apenwarr:
+  - ["Systems design explains the world: volume 1"][21]
+- brandur:
+  - ["Soft Deletion Probably Isn't Worth It"][22]
+- Dan Luu:
+  - ["95%-ile isn't that good"][23]
+- Matt Rickard:
+  - ["The Unreasonable Effectiveness of Makefiles"][24]
+
+[1]: https://acoup.blog/
+[2]: https://thewhippet.org/
+[3]: https://www.robinsloan.com/
+[4]: https://craigmod.com/
+[5]: https://www.bloomberg.com/account/newsletters/money-stuff
+[6]: https://bam.kalzumeus.com/
+[7]: https://waxy.org/
+[8]: https://theuntranslated.wordpress.com/
+[9]: https://www.robinrendle.com/
+[10]: https://www.robinrendle.com/essays/in-praise-of-shadows/
+[11]: https://maggieappleton.com/
+[12]: https://thesephist.com/
+[13]: https://maya.land/
+[14]: https://www.granolashotgun.com/
+[15]: http://blog.nuclearsecrecy.com/
+[16]: https://astralcodexten.substack.com/
+[17]: https://marginalrevolution.com/
+[18]: https://buttondown.email/hillelwayne/archive/mystery-knowledge-worskshop-discount/
+[19]: https://jvns.ca/blog/2022/07/20/pseudoterminals/
+[20]: https://aphyr.com/posts/341-hexing-the-technical-interview
+[21]: https://apenwarr.ca/log/20201227
+[22]: https://brandur.org/soft-deletion
+[23]: https://danluu.com/p95-skill/
+[24]: https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles

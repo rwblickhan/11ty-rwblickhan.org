@@ -138,7 +138,7 @@ Mark Dominus, ["Mental illness, attention deficit disorder, and suffering"](http
 
 > The idea you have when you’re young, to reach the edge of what can be done with your abilities and find out what might happen if you went past it? You promise yourself you’ll try but then wake up fifty years later to discover that you were in fact always too sensible to push things until they fell over, in case people thought less of you. In your seventies, though, it doesn’t seem to matter any more what other people think. That’s probably the first phase of your life in which you can actually do what you want. And certainly the last.
 
-- [“the idea you have”](https://ambientehotel.wordpress.com/2021/10/05/the-idea-you-have/), M. John Harrison 
+- [“the idea you have”](https://ambientehotel.wordpress.com/2021/10/05/the-idea-you-have/), M. John Harrison
 
 > Look at yourself - what leaf, what tiny tree\
 > Are you in all the countryside we see?\

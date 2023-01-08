@@ -3,7 +3,11 @@
     <meta name="og:site_name" content="rwblickhan.org" />
     <link rel="canonical" href="https://rwblickhan.org" />
     <meta name="og:url" content="https://rwblickhan.org" />
-    <title>rwblickhan.org</title>
+    {% if title %}
+        <title>{{ title }} · rwblickhan.org</title>
+    {% else %}
+        <title>rwblickhan.org</title>
+    {% endif %}
     <meta name="og:title" content="rwblickhan.org" />
     <meta name="description" content="The personal site of R.W. Blickhan" />
     <meta name="og:description" content="The personal site of R.W. Blickhan" />
