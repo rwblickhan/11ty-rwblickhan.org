@@ -1,10 +1,18 @@
-<main>
+<article>
     <div
         class="pt-32 px-4 mb-8 md:max-w-3xl md:mx-auto prose dark:prose-invert dark:prose-headings:text-rwb-text-dark prose-a:text-rwb-link-light dark:prose-a:text-rwb-link-dark prose-a:no-underline hover:prose-a:underline"
     >
         {% if title %}
-            <h1>{{ title }}</h1>
+        <h1>{{ title }}</h1>
+        {% endif %}
+        {% if content | toc %}
+        {% unless no-toc %}
+        <details>
+            <summary>Table of Contents</summary>
+            {{ content | toc }}
+        </details>
+        {% endunless %}
         {% endif %}
         {{ content }}
     </div>
-</main>
+</article>

@@ -8,7 +8,6 @@
         class="grid gap-4 grid-cols-1 md:grid-cols-2 place-items-stretch grid-rows-none prose-headings:text-rwb-link-light dark:prose-headings:text-rwb-link-dark"
     >
         {% for tagged_item in collections[tag_type] reversed %}
-
         <a
             href="{{ tagged_item.url }}"
             class="not-prose border-2 rounded-lg border-black dark:border-gray-300 hover:border-rwb-link-light hover:dark:border-rwb-link-dark"
@@ -20,7 +19,6 @@
                 <p>{{ tagged_item.data.snippet }}</p>
             </div>
         </a>
-
         {% endfor %}
     </div>
 </div>

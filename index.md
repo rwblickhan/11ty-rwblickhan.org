@@ -1,5 +1,6 @@
 ---
 title: R. W. Blickhan
+no-toc: true
 ---
 
 I'm a writer and programmer.

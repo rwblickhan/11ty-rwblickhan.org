@@ -15,8 +15,6 @@ module.exports = {
                 "rwb-link-dark": "#689fd9",
                 "rwb-button-background-dark": "#254a93",
                 "rwb-slate-light": "#ebedef",
-                "rwb-slate-code-light": "#f6f8fa",
-                "rwb-slate-code-dark": "#161b22",
             },
         },
     },

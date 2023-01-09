@@ -9,30 +9,13 @@ Despite being primarily an iOS developer, I use the command line quite a bit - I
 
 If you like this list, you might also like Julia Evan's [more comprehensive list](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)!
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [neovim](#neovim)
-- [git](#git)
-  - [delta](#delta)
-  - [gh](#gh)
-  - [tig](#tig)
-- [fzf](#fzf)
-- [bat](#bat)
-- [exa](#exa)
-- [rg](#rg)
-- [fd](#fd)
-- [tldr](#tldr)
-- [zoxide](#zoxide)
-- [httpie](#httpie)
-
 ## neovim
 
 I have a noted love for vim, but when I'm not using an IDE with a vim mode, I'm actually typically using [neovim](https://neovim.io), alias `nvim`, which is a modern reimplementation of vim with much less technical debt, a scripting engine based on Lua instead of notoriously-idiosyncratic vimscript, and reasonable defaults like syntax highlighting enabled by default. It also has a full implementation of the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/), which enables it to have very rich, Visual Studio Code-esque plugins.
 
 ## git
 
-## .gitconfig
+### .gitconfig
 
 I've set up a number of "cute" aliases in my `.gitconfig`:
 
@@ -52,7 +35,7 @@ These are a little hard to read, but `git b`, `git c`, and `git m` provide repla
 
 Finally, there's `git oops`. I'm not a stickler for commit history cleanliness - I typically combine related commits into a PR and squash-merge the result - but occasionally it is nice to squash a change into the last commit, usually when something got missed (hence "oops").
 
-## delta
+### delta
 
 ![git diff with delta in action](/images/technical/delta.png)
 
