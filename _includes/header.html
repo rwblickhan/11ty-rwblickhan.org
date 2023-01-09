@@ -31,5 +31,16 @@
             >
         </div>
         {% endfor %}
+        <div
+            class="pl-4 lg:pl-12 pr-4 lg:pr-10 bg-black h-16 flex items-center justify-between hidden peer-checked:block"
+        >
+            <div class="stork-wrapper">
+    	      <input data-stork="index" class="stork-input" />
+    	      <div data-stork="index-output" class="stork-output"></div>
+    	    </div>
+	      
+    	    <script>stork.register("index", "index.st")</script>
+    	  </body>
+        </div>
     </div>
 </header>
