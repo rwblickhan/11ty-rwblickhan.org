@@ -7,10 +7,28 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
     steps:
       - uses: actions/checkout@v3
       - run: sudo apt-get update && sudo apt-get install awscli
-      - run: git bundle create 11ty-rwblickhan.org.bundle --all
+      - name: Install Stork
+        run: wget https://files.stork-search.net/releases/v1.5.0/stork-ubuntu-20-04 && chmod +x stork-ubuntu-20-04
+      - run: npm ci
+      - run: npm run build
+      - name: Build search index
+        run: stork-ubuntu-20-04 build --input _site/stork-posts.toml --output _site/index.st
+      - name: Publish
+        uses: cloudflare/pages-action@1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: rwblickhanorg
+          directory: _site
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+      - name: Bundle
+        run: git bundle create 11ty-rwblickhan.org.bundle --all
       - name: Backup
         env:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

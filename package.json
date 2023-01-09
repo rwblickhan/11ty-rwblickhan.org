@@ -6,7 +6,7 @@
         "dev": "concurrently \"npm run dev:css\" \"npm run dev:11ty\"",
         "dev:11ty": "npx @11ty/eleventy --serve",
         "dev:css": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css --watch",
-        "build": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css && npx @11ty/eleventy && stork build --input _site/stork-posts.toml --output _site/index.st"
+        "build": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css && npx @11ty/eleventy"
     },
     "keywords": [],
     "author": "",
