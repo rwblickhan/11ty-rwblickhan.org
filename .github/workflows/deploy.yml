@@ -18,7 +18,7 @@ jobs:
       - run: npm ci
       - run: npm run build
       - name: Build search index
-        run: stork-ubuntu-20-04 build --input _site/stork-posts.toml --output _site/index.st
+        run: ./stork-ubuntu-20-04 build --input _site/stork-posts.toml --output _site/index.st
       - name: Publish
         uses: cloudflare/pages-action@1
         with:
