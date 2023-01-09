@@ -5,4 +5,4 @@
     X-Content-Type-Options: nosniff
     Referrer-Policy: no-referrer
     Permissions-Policy: document-domain=()
-    Content-Security-Policy: default-src 'self'; script-src 'nonce-2726c7f26c' https://files.stork-search.net/ 'unsafe-eval'; object-src 'self'; frame-ancestors 'none';
+    Content-Security-Policy: script-src 'self' 'nonce-2726c7f26c' https://files.stork-search.net/; object-src 'self'; frame-ancestors 'none';
