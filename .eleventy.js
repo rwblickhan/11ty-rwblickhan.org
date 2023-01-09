@@ -32,6 +32,8 @@ module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy("tailwind_styles");
     eleventyConfig.addPassthroughCopy("robots.txt");
     eleventyConfig.addPassthroughCopy("_headers");
+    eleventyConfig.addPassthroughCopy("stork.js");
+    eleventyConfig.addPassthroughCopy("stork.wasm");
 
     // Rebuild the site whenever there is a change in the `vendor` directory.
     eleventyConfig.addWatchTarget("vendor");

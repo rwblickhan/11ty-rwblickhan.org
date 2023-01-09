@@ -39,7 +39,10 @@
     	      <div data-stork="index-output" class="stork-output"></div>
     	    </div>
 	      
-    	    <script nonce="2726c7f26c">stork.register("index", "index.st")</script>
+    	    <script nonce="2726c7f26c">
+                stork.initialize("stork.wasm")
+                stork.register("index", "index.st")
+            </script>
     	  </body>
         </div>
     </div>
