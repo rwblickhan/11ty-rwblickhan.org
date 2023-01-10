@@ -27,6 +27,7 @@ async function imageShortcode(src, alt) {
 module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy("styles/Vollkorn");
     eleventyConfig.addPassthroughCopy("styles/prism-okaidia.css");
+    eleventyConfig.addPassthroughCopy("styles/stork.css");
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("files");
     eleventyConfig.addPassthroughCopy("tailwind_styles");
