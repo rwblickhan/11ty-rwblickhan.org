@@ -27,15 +27,11 @@ async function imageShortcode(src, alt) {
 module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy("styles/Vollkorn");
     eleventyConfig.addPassthroughCopy("styles/prism-okaidia.css");
-    eleventyConfig.addPassthroughCopy("styles/stork.css");
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("files");
     eleventyConfig.addPassthroughCopy("tailwind_styles");
     eleventyConfig.addPassthroughCopy("robots.txt");
     eleventyConfig.addPassthroughCopy("_headers");
-    eleventyConfig.addPassthroughCopy("stork.js");
-    eleventyConfig.addPassthroughCopy("stork.js.map");
-    eleventyConfig.addPassthroughCopy("stork.wasm");
 
     // Rebuild the site whenever there is a change in the `vendor` directory.
     eleventyConfig.addWatchTarget("vendor");
