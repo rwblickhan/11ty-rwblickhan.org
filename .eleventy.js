@@ -24,6 +24,26 @@ async function imageShortcode(src, alt) {
     return `<a href="${src}" title="${alt}" "target="_blank"><img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async"></a>`;
 }
 
+function searchFilter(collection) {
+    // what fields we'd like our index to consist of
+  var index = elasticlunr(function () {
+    this.addField("title");
+    this.addField("content");
+    this.setRef("id");
+  });
+
+  // loop through each page and add it to the index
+  collection.forEach((page) => {
+    index.addDoc({
+      id: page.url,
+      title: page.template.frontMatter.data.title,
+      content: page.content
+    });
+  });
+
+  return index.toJSON();
+}
+
 module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy("styles/Vollkorn");
     eleventyConfig.addPassthroughCopy("styles/prism-okaidia.css");
@@ -32,9 +52,12 @@ module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy("tailwind_styles");
     eleventyConfig.addPassthroughCopy("robots.txt");
     eleventyConfig.addPassthroughCopy("_headers");
+    eleventyConfig.addPassthroughCopy("elasticlunr.min.js");
 
     // Rebuild the site whenever there is a change in the `vendor` directory.
     eleventyConfig.addWatchTarget("vendor");
+
+    eleventyConfig.addFilter("search", searchFilter);
 
     /**
      * We need this option so 11ty allows us to watch the .gitignore'd `vendor`
