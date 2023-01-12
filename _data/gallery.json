@@ -38,5 +38,9 @@
     {
         "description": "A dark alley in Soma",
         "path": "/images/gallery/10.jpg"
+    },
+    {
+        "description": "A TTC mural in Toronto",
+        "path": "/images/gallery/11.jpg"
     }
 ]
