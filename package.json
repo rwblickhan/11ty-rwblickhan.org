@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "dev": "eleventy --serve & npx tailwindcss -i styles/tailwind.css -o _site/styles/index.css --watch",
+        "dev": "eleventy --serve & npx tailwindcss -i styles/tailwind.css -o _site/styles/index.css --watch & stork build --input _site/stork-posts.toml --output _site/index.st",
         "build": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy && NODE_ENV=production npx tailwindcss -i styles/tailwind.css -o _site/styles/index.css --minify"
     },
     "keywords": [],
