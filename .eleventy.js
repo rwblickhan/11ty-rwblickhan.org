@@ -1,4 +1,5 @@
 const eleventyGoogleFonts = require("eleventy-google-fonts");
+const eleventyVitePlugin = require("@11ty/eleventy-plugin-vite");
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require("markdown-it-anchor");
@@ -21,7 +22,7 @@ async function imageShortcode(src, alt) {
     });
 
     const data = metadata.jpeg[metadata.jpeg.length - 1];
-    return `<a href="${src}" title="${alt}" "target="_blank"><img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async"></a>`;
+    return `<a href="${src}" title="${alt}" target="_blank"><img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async"></a>`;
 }
 
 module.exports = eleventyConfig => {
@@ -54,10 +55,11 @@ module.exports = eleventyConfig => {
             .use(markdownItFootnote)
     );
 
+    eleventyConfig.addLiquidShortcode("image", imageShortcode);
+
     eleventyConfig.addPlugin(eleventyGoogleFonts);
-    eleventyConfig.addPlugin(syntaxHighlight);
+    eleventyConfig.addPlugin(eleventyVitePlugin);
     eleventyConfig.addPlugin(pluginRSS);
     eleventyConfig.addPlugin(pluginTOC);
-    eleventyConfig.addLiquidShortcode("image", imageShortcode);
-    eleventyConfig.addPlugin(pluginRSS);
+    eleventyConfig.addPlugin(syntaxHighlight);
 };
