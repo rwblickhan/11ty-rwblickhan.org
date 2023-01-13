@@ -19,12 +19,14 @@ jobs:
       - run: npm run build
       - name: Build search index
         run: ./stork-ubuntu-20-04 build --input _site/stork-posts.toml --output _site/index.st
-      - name: Publish index
-        uses: cloudflare/wrangler-action@2.0.0
+      - name: Publish
+        uses: cloudflare/pages-action@1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: r2 object put store-rwblickhanorg/index.st --file _site/index.st
+          projectName: rwblickhanorg
+          directory: _site
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
       - name: Bundle
         run: git bundle create 11ty-rwblickhan.org.bundle --all
       - name: Backup
