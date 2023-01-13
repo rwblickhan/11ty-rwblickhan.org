@@ -1,4 +1,5 @@
 const eleventyGoogleFonts = require("eleventy-google-fonts");
+const htmlminifier = require('html-minifier');
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
 const markdownItAnchor = require("markdown-it-anchor");
@@ -33,6 +34,18 @@ module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy("_headers");
     eleventyConfig.addPassthroughCopy("stork.js");
     eleventyConfig.addPassthroughCopy("stork.wasm");
+
+    eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
+        if (process.env.ELEVENTY_PRODUCTION && outputPath && outputPath.endsWith('.html')) {
+            let minified = htmlminifier.minify(content, {
+                useShortDoctype: true,
+                removeComments: true,
+                collapseWhitespace: true,
+            });
+            return minified;
+        }
+        return content;
+    });
 
     const options = {
         html: true,
