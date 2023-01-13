@@ -21,7 +21,7 @@ async function imageShortcode(src, alt) {
     });
 
     const data = metadata.jpeg[metadata.jpeg.length - 1];
-    return `<a href="${src}" title="${alt}" "target="_blank"><img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async"></a>`;
+    return `<a href="${src}" title="${alt}" target="_blank"><img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async"></a>`;
 }
 
 module.exports = eleventyConfig => {
