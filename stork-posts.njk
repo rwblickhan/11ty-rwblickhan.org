@@ -1,0 +1,58 @@
+---
+layout: ""
+permalink: "stork-posts.toml"
+eleventyExcludeFromCollections: true
+---
+
+[input]
+url_prefix = "{{metadata.url}}"
+ 
+{%- for post in collections.fiction %}
+{% set absolutePostUrl %}{{ post.url | url }}{% endset %}
+ 
+[[input.files]]
+path = "{{post.inputPath}}"
+url = "{{absolutePostUrl}}"
+title = "{{post.data.title | safe}}"
+ 
+{%- endfor %}
+
+{%- for post in collections.nonfiction %}
+{% set absolutePostUrl %}{{ post.url | url }}{% endset %}
+ 
+[[input.files]]
+path = "{{post.inputPath}}"
+url = "{{absolutePostUrl}}"
+title = "{{post.data.title | safe}}"
+ 
+{%- endfor %}
+
+{%- for post in collections.misc %}
+{% set absolutePostUrl %}{{ post.url | url }}{% endset %}
+ 
+[[input.files]]
+path = "{{post.inputPath}}"
+url = "{{absolutePostUrl}}"
+title = "{{post.data.title | safe}}"
+ 
+{%- endfor %}
+
+{%- for post in collections.recipe %}
+{% set absolutePostUrl %}{{ post.url | url }}{% endset %}
+ 
+[[input.files]]
+path = "{{post.inputPath}}"
+url = "{{absolutePostUrl}}"
+title = "{{post.data.title | safe}}"
+ 
+{%- endfor %}
+
+{%- for post in collections.logs %}
+{% set absolutePostUrl %}{{ post.url | url }}{% endset %}
+ 
+[[input.files]]
+path = "{{post.inputPath}}"
+url = "{{absolutePostUrl}}"
+title = "{{post.data.title | safe}}"
+ 
+{%- endfor %}
