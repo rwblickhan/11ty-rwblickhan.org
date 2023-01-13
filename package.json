@@ -3,10 +3,8 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "dev": "concurrently \"npm run dev:css\" \"npm run dev:11ty\"",
-        "dev:11ty": "npx @11ty/eleventy --serve",
-        "dev:css": "npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css --watch",
-        "build": "npx @11ty/eleventy && npx tailwindcss -i ./styles/global.css -o ./tailwind_styles/global.css --minify"
+        "dev": "eleventy --serve & npx tailwindcss -i styles/tailwind.css -o _site/styles/index.css --watch",
+        "build": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy && NODE_ENV=production npx tailwindcss -i styles/tailwind.css -o _site/styles/index.css --minify"
     },
     "keywords": [],
     "author": "",

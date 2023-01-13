@@ -29,20 +29,10 @@ module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy("styles/stork.css");
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("files");
-    eleventyConfig.addPassthroughCopy("tailwind_styles");
     eleventyConfig.addPassthroughCopy("robots.txt");
     eleventyConfig.addPassthroughCopy("_headers");
     eleventyConfig.addPassthroughCopy("stork.js");
     eleventyConfig.addPassthroughCopy("stork.wasm");
-
-    // Rebuild the site whenever there is a change in the `vendor` directory.
-    eleventyConfig.addWatchTarget("vendor");
-
-    /**
-     * We need this option so 11ty allows us to watch the .gitignore'd `vendor`
-     * directory.
-     */
-    eleventyConfig.setUseGitIgnore(false);
 
     const options = {
         html: true,
