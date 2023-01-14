@@ -42,5 +42,9 @@
     {
         "description": "A TTC mural in Toronto",
         "path": "/images/gallery/11.jpg"
+    },
+    {
+        "description": "The sun setting over Waikiki Beach",
+        "path": "/images/gallery/12.jpg"
     }
 ]
