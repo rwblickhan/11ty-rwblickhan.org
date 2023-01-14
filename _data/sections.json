@@ -18,9 +18,5 @@
     {
         "name": "Miscellaneous",
         "slug": "misc"
-    },
-    {
-        "name": "Search",
-        "slug": "search"
     }
 ]
