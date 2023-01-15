@@ -3,7 +3,10 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "dev": "eleventy --serve & npx tailwindcss -i styles/tailwind.css -o _site/styles/index.css --watch & stork build --input _site/stork-posts.toml --output _site/index.st",
+        "dev": "concurrently \"npm run dev:stork\" \"npm run dev:css\" \"npm run dev:11ty\"",
+        "dev:stork": "stork build --input _site/stork-posts.toml --output _site/index.st",
+        "dev:css": "npx tailwindcss -i styles/tailwind.css -o _site/styles/index.css --watch",
+        "dev:11ty": "eleventy --serve",
         "build": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy && NODE_ENV=production npx tailwindcss -i styles/tailwind.css -o _site/styles/index.css --minify"
     },
     "keywords": [],
@@ -15,7 +18,7 @@
         "@11ty/eleventy-plugin-rss": "^1.2.0",
         "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
         "@tailwindcss/typography": "^0.5.2",
-        "concurrently": "^7.2.2",
+        "concurrently": "^7.6.0",
         "eleventy-google-fonts": "^0.1.0",
         "eleventy-plugin-toc": "^1.1.5",
         "html-minifier": "^4.0.0",
