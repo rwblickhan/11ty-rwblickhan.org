@@ -21,3 +21,4 @@ date: 2023-01-01
 15. *World Clique*, Deee-Lite
 16. *H.E.R.*, H.E.R.
 17. *Pony*, Orville Peck
+18. *Bronco*, Orville Peck
