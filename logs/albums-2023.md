@@ -22,3 +22,4 @@ date: 2023-01-01
 16. *H.E.R.*, H.E.R.
 17. *Pony*, Orville Peck
 18. *Bronco*, Orville Peck
+19. *Songs The Lord Taught Us*, The Cramps
