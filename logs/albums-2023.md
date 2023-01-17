@@ -26,3 +26,4 @@ date: 2023-01-01
 20. *Psychedelic Jungle*, The Cramps
 21. *In Rainbow Roads*, on4words
 22. *Fleet Foxes*, Fleet Foxes
+23. *Noble Beast*, Andrew Bird
