@@ -25,3 +25,4 @@ date: 2023-01-01
 19. *Songs The Lord Taught Us*, The Cramps
 20. *Psychedelic Jungle*, The Cramps
 21. *In Rainbow Roads*, on4words
+22. *Fleet Foxes*, Fleet Foxes
