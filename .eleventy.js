@@ -59,10 +59,11 @@ module.exports = eleventyConfig => {
             .use(markdownItFootnote)
     );
 
+    eleventyConfig.addLiquidShortcode("image", imageShortcode);
+
     eleventyConfig.addPlugin(eleventyGoogleFonts);
     eleventyConfig.addPlugin(syntaxHighlight);
     eleventyConfig.addPlugin(pluginRSS);
     eleventyConfig.addPlugin(pluginTOC);
-    eleventyConfig.addLiquidShortcode("image", imageShortcode);
     eleventyConfig.addPlugin(pluginRSS);
 };
