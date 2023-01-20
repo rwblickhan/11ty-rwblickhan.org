@@ -29,3 +29,4 @@ date: 2023-01-01
 23. *Noble Beast*, Andrew Bird
 24. *Dive Deep*, Andrew Belle
 25. *El Bueno Y El Malo*, Hermanos Gutierrez
+26. *Shore*, Fleet Foxes
