@@ -10,3 +10,4 @@ date: 2023-01-01
 4. *Shuna's Journey*, Hayao Miyazaki (trans. Alex Dudok de Wit)
 5. *I'm Glad My Mom Died*, Jennette McCurdy
 6. *Sex Criminals Vol. 1: One Weird Trick*, Matt Fraction & Chip Zdarsky
+7. *Kill 6 Billion Demons Book 1*, Tom Parkinson-Morgan
