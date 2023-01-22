@@ -9,7 +9,7 @@
     </div>
     <div class="grid gap-4 grid-cols-1 md:grid-cols-2 grid-rows-none">
         {% for gallery_image in gallery %}
-            {% image gallery_image.path gallery_image.description %}
+            {% image gallery_image.path gallery_image.description "(min-width: 30em) 50vw, 100vw" %}
         {% endfor %}
     </div>
 </div>

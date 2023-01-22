@@ -1,43 +1,49 @@
-const eleventyGoogleFonts = require("eleventy-google-fonts");
-const htmlminifier = require('html-minifier');
-const markdownIt = require("markdown-it");
-const markdownItFootnote = require("markdown-it-footnote");
-const markdownItAnchor = require("markdown-it-anchor");
-const pluginRSS = require("@11ty/eleventy-plugin-rss");
-const pluginTOC = require("eleventy-plugin-toc");
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const Image = require("@11ty/eleventy-img");
+// Eleventy plugins
+const EleventyGoogleFonts = require("eleventy-google-fonts");
+const EleventyImage = require("@11ty/eleventy-img");
+const EleventyPluginRSS = require("@11ty/eleventy-plugin-rss");
+const EleventyPluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const EleventyPluginTOC = require("eleventy-plugin-toc");
 
-async function imageShortcode(src, alt) {
-    if (alt === undefined) {
-        // You bet we throw an error on missing alt (alt="" works okay)
-        throw new Error(`Missing \`alt\` on myImage from: ${src}`);
-    }
+// markdown-it plugins
+const MarkdownIt = require("markdown-it");
+const MarkdownItFootnote = require("markdown-it-footnote");
+const MarkdownItAnchor = require("markdown-it-anchor");
 
-    const metadata = await Image(`.${src}`, {
+// Other dependencies
+const HtmlMinifier = require('html-minifier');
+
+async function imageShortcode(src, alt, sizes) {
+    const metadata = await EleventyImage(`.${src}`, {
         widths: [600],
-        formats: ["jpeg"],
         urlPath: "/images/",
         outputDir: "./_site/images/",
     });
 
-    const data = metadata.jpeg[metadata.jpeg.length - 1];
-    return `<a href="${src}" title="${alt}" target="_blank"><img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async"></a>`;
+    let imageAttributes = {
+        alt,
+        sizes,
+        loading: "lazy",
+        decoding: "async",
+    };
+
+    return EleventyImage.generateHTML(metadata, imageAttributes, {
+        whitespaceMode: "inline"
+    });
 }
 
 module.exports = eleventyConfig => {
-    eleventyConfig.addPassthroughCopy("styles/prism-okaidia.css");
-    eleventyConfig.addPassthroughCopy("styles/stork.css");
-    eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("files");
-    eleventyConfig.addPassthroughCopy("robots.txt");
     eleventyConfig.addPassthroughCopy("_headers");
+    eleventyConfig.addPassthroughCopy("robots.txt");
     eleventyConfig.addPassthroughCopy("stork.js");
     eleventyConfig.addPassthroughCopy("stork.wasm");
+    eleventyConfig.addPassthroughCopy("styles/prism-okaidia.css");
+    eleventyConfig.addPassthroughCopy("styles/stork.css");
 
     eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
         if (process.env.ELEVENTY_PRODUCTION && outputPath && outputPath.endsWith('.html')) {
-            let minified = htmlminifier.minify(content, {
+            let minified = HtmlMinifier.minify(content, {
                 useShortDoctype: true,
                 removeComments: true,
                 collapseWhitespace: true,
@@ -54,16 +60,15 @@ module.exports = eleventyConfig => {
     };
     eleventyConfig.setLibrary(
         "md",
-        markdownIt(options)
-            .use(markdownItAnchor)
-            .use(markdownItFootnote)
+        MarkdownIt(options)
+            .use(MarkdownItAnchor)
+            .use(MarkdownItFootnote)
     );
 
-    eleventyConfig.addLiquidShortcode("image", imageShortcode);
+    eleventyConfig.addAsyncShortcode("image", imageShortcode);
 
-    eleventyConfig.addPlugin(eleventyGoogleFonts);
-    eleventyConfig.addPlugin(syntaxHighlight);
-    eleventyConfig.addPlugin(pluginRSS);
-    eleventyConfig.addPlugin(pluginTOC);
-    eleventyConfig.addPlugin(pluginRSS);
+    eleventyConfig.addPlugin(EleventyGoogleFonts);
+    eleventyConfig.addPlugin(EleventyPluginRSS);
+    eleventyConfig.addPlugin(EleventyPluginSyntaxHighlight);
+    eleventyConfig.addPlugin(EleventyPluginTOC);
 };
