@@ -16,6 +16,7 @@ const HtmlMinifier = require('html-minifier');
 async function imageShortcode(src, alt, sizes) {
     const metadata = await EleventyImage(`.${src}`, {
         widths: [600],
+        formats: ["webp"],
         urlPath: "/images/",
         outputDir: "./_site/images/",
     });
